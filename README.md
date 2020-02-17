@@ -27,4 +27,4 @@ You can use these by editing your `config.json` file to include the theme inside
 
 Made by `@me:thomcat.rocks`
 
-![ThomCat Black Screenshot](ThomCat-Black/ThomCat Black.png)
+![ThomCat Black Screenshot](ThomCat-Black/ThomCat%20Black.png)
