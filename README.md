@@ -1,5 +1,5 @@
 # riot-web-themes
-Themes for Riot Web
+A place to share themes for [Riot Web](https://github.com/vector-im/riot-web). See the [theming documentation](https://github.com/vector-im/riot-web/blob/master/docs/theming.md) for more information on how these work.
 
 You can use these by editing your `config.json` file to include the theme inside of the `settingDefaults` section like this:
 
