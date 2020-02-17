@@ -23,7 +23,7 @@ You can use these by editing your `config.json` file to include the theme inside
 ```
 
 
-## [ThomCat Black](ThomCat-Black.json)
+## [ThomCat Black](ThomCat-Black/ThomCat-Black.json)
 
 Made by `@me:thomcat.rocks`
 
