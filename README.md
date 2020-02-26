@@ -28,3 +28,10 @@ You can use these by editing your `config.json` file to include the theme inside
 Made by `@me:thomcat.rocks`
 
 ![ThomCat Black Screenshot](ThomCat-Black/ThomCat%20Black.png)
+
+
+## [Discord Dark Theme](Discord-Dark-Theme/Discord-Dark-Theme.json)
+
+Made by `@dhmf:dhdf.dev`
+
+![Discord Dark Theme Screenshot](Discord-Dark-Theme/Discord-Dark-Theme.png)
