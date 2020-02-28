@@ -5,12 +5,14 @@
         "accent-color": "#7289DA",
         "primary-color": "#00b0f4",
         "warning-color": "#f04747",
-        "sidebar-color": "#2C2F33",
+
+        "sidebar-color": "#23272A",
         "roomlist-background-color": "#2f3136",
         "roomlist-text-color": "#FFFFFF",
         "roomlist-text-secondary-color": "#99AAB5",
         "roomlist-highlights-color": "#393c42",
-        "roomlist-separator-color": "#23272A",
+        "roomlist-separator-color": "#36393f",
+
         "timeline-background-color": "#36393f",
         "timeline-text-color": "#FFFFFF",
         "timeline-text-secondary-color": "#99AAB5",

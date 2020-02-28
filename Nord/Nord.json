@@ -1,0 +1,22 @@
+{
+    "name": "Nord",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#a3be8c",
+        "primary-color": "#88c0d0",
+        "warning-color": "#bf616a",
+        
+        "sidebar-color": "#2e3440",
+        "roomlist-background-color": "#3b4252",
+        "roomlist-text-color": "#ebcb8b",
+        "roomlist-text-secondary-color": "#e5e9f0",
+        "roomlist-highlights-color": "#2e3440",
+        "roomlist-separator-color": "#434c5e",
+
+        "timeline-background-color": "#434c5e",
+        "timeline-text-color": "#eceff4",
+        "timeline-text-secondary-color": "#81a1c1",
+        "timeline-highlights-color": "#bf616a",
+        "reaction-row-button-selected-bg-color": "#bf616a"
+    }
+}

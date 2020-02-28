@@ -52,3 +52,10 @@ Made by `@me:thomcat.rocks`
 Made by `@dhmf:dhdf.dev`
 
 ![Discord Dark Theme Screenshot](Discord-Dark-Theme/Discord-Dark-Theme.png)
+
+
+## [Nord Theme](Nord/Nord.json)
+
+Made by `@dhmf:dhdf.dev`
+
+![Nord Theme Screenshort](Nord/Nord.png)
