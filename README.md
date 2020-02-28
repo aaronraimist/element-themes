@@ -36,6 +36,9 @@ You can install Radical which is Riot web bundled as a Firefox add-on. You can e
 #### Use my Riot Web instance
 Alternatively you can use [my Riot Web instance](https://riot.raim.ist) which has all of these themes preinstalled so there is no configuration required.
 
+#### Discussions
+Join us in [#riot-web-themes:m.dhdf.dev](https://matrix.to/#/!pjCLhvJxLkGjNQFqcB:m.dhdf.dev?via=m.dhdf.dev&via=raim.ist&via=t2bot.io)
+
 
 # Themes
 
