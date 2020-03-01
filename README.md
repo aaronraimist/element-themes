@@ -60,4 +60,22 @@ Made by `@dhmf:dhdf.dev`
 
 Made by `@dhmf:dhdf.dev`
 
-![Nord Theme Screenshort](Nord/Nord.png)
+![Nord Theme Screenshot](Nord/Nord.png)
+
+## [Selenized Light Theme](Selenized/Selenized%20Light/Selenized%20Light.json)
+
+Made by `@dhmf:dhdf.dev`
+
+![Selenized Light Theme Screenshot](Selenized/Selenized%20Light/Selenized%20Light.png)
+
+## [Selenized Dark Theme](Selenized/Selenized%20Dark/Selenized%20Dark.json)
+
+Made by `@dhmf:dhdf.dev`
+
+![Selenized Dark Theme Screenshot](Selenized/Selenized%20Dark/Selenized%20Dark.png)
+
+## [Selenized Black Theme](Selenized/Selenized%20Black/Selenized%20Black.json)
+
+Made by `@dhmf:dhdf.dev`
+
+![Selenized Black Theme Screenshot](Selenized/Selenized%20Black/Selenized%20Black.png)
