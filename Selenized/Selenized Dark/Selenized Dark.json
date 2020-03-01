@@ -1,0 +1,22 @@
+{
+    "name": "Selenized Dark",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#41c7b9",
+        "primary-color": "#4695f7",
+        "warning-color": "#fa5750",
+
+        "sidebar-color": "#103c48",
+        "roomlist-background-color": "#184956",
+        "roomlist-text-color": "#dbb32d",
+        "roomlist-text-secondary-color": "#FFFFFF",
+        "roomlist-highlights-color": "#2d5b69",
+        "roomlist-separator-color": "#2d5b69",
+
+        "timeline-background-color": "#2d5b69",
+        "timeline-text-color": "#FFFFFF",
+        "timeline-text-secondary-color": "#cad8d9",
+        "timeline-highlights-color": "#bf616a",
+        "reaction-row-button-selected-bg-color": "#4695f7"
+    }
+}

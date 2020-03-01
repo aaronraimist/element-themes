@@ -1,0 +1,22 @@
+{
+    "name": "Selenized Light",
+    "is_dark": false,
+    "colors": {
+        "accent-color": "#ad8900",
+        "primary-color": "#009c8f",
+        "warning-color": "#d2212d",
+
+        "sidebar-color": "#d5cdb6",
+        "roomlist-background-color": "#ece3cc",
+        "roomlist-text-color": "#c25d1e",
+        "roomlist-text-secondary-color": "#000000",
+        "roomlist-highlights-color": "#fbf3db",
+        "roomlist-separator-color": "#fbf3db",
+
+        "timeline-background-color": "#fbf3db",
+        "timeline-text-color": "#000000",
+        "timeline-text-secondary-color": "#777777",
+        "timeline-highlights-color": "#bf616a",
+        "reaction-row-button-selected-bg-color": "#4695f7"
+    }
+}
