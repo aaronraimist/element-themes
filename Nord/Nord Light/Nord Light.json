@@ -1,0 +1,22 @@
+{
+    "name": "Nord Light",
+    "is_dark": false,
+    "colors": {
+        "accent-color": "#a3be8c",
+        "primary-color": "#5e81ac",
+        "warning-color": "#bf616a",
+
+        "sidebar-color": "#d8dee9",
+        "roomlist-background-color": "#e5e9f0",
+        "roomlist-text-color": "#d08770",
+        "roomlist-text-secondary-color": "#3b4252",
+        "roomlist-highlights-color": "#eceff4",
+        "roomlist-separator-color": "#eceff4",
+
+        "timeline-background-color": "#eceff4",
+        "timeline-text-color": "#2e3440",
+        "timeline-text-secondary-color": "#3b4252",
+        "timeline-highlights-color": "#bf616a",
+        "reaction-row-button-selected-bg-color": "#bf616a"
+    }
+}

@@ -56,11 +56,17 @@ Made by `@dhmf:dhdf.dev`
 ![Discord Dark Theme Screenshot](Discord-Dark-Theme/Discord-Dark-Theme.png)
 
 
-## [Nord Theme](Nord/Nord.json)
+## [Nord Dark Theme](Nord/Nord%20Dark/Nord%20Dark.json)
 
 Made by `@dhmf:dhdf.dev`
 
-![Nord Theme Screenshot](Nord/Nord.png)
+![Nord Dark Theme Screenshot](Nord/Nord%20Dark/Nord%20Dark.png)
+
+## [Nord Light Theme](Nord/Nord%20Light/Nord%20Light.json)
+
+Made by `@dhmf:dhdf.dev`
+
+![Nord Light Theme Screenshot](Nord/Nord%20Light/Nord%20Light.png)
 
 ## [Selenized Light Theme](Selenized/Selenized%20Light/Selenized%20Light.json)
 
