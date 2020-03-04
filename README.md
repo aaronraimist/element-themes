@@ -46,7 +46,7 @@ Join us in [#riot-web-themes:m.dhdf.dev](https://matrix.to/#/!pjCLhvJxLkGjNQFqcB
 
 Made by `@me:thomcat.rocks`
 
-![ThomCat Black Screenshot](ThomCat-Black/ThomCat%20Black.png)
+![ThomCat Black Screenshot](ThomCat-Black/ThomCat-Black.png)
 
 
 ## [Discord Dark Theme](Discord-Dark-Theme/Discord-Dark-Theme.json)
