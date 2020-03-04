@@ -42,18 +42,18 @@ Join us in [#riot-web-themes:m.dhdf.dev](https://matrix.to/#/!pjCLhvJxLkGjNQFqcB
 
 # Themes
 
-## [ThomCat Black](ThomCat-Black/ThomCat-Black.json)
+## [ThomCat Black](ThomCat/ThomCat-Black.json)
 
 Made by `@me:thomcat.rocks`
 
 ![ThomCat Black Screenshot](ThomCat/ThomCat-Black.png)
 
 
-## [Discord Dark Theme](Discord-Dark-Theme/Discord-Dark-Theme.json)
+## [Discord Dark Theme](Discord/Discord-Dark/Discord-Dark-Theme.json)
 
 Made by `@dhmf:dhdf.dev`
 
-![Discord Dark Theme Screenshot](Discord-Dark-Theme/Discord-Dark-Theme.png)
+![Discord Dark Theme Screenshot](Discord/Discord-Dark/Discord-Dark-Theme.png)
 
 
 ## [Nord Dark Theme](Nord/Nord%20Dark/Nord%20Dark.json)
