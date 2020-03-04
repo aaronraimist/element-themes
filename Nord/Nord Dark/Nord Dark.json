@@ -1,11 +1,11 @@
 {
-    "name": "Nord",
+    "name": "Nord dark theme",
     "is_dark": true,
     "colors": {
         "accent-color": "#a3be8c",
         "primary-color": "#88c0d0",
         "warning-color": "#bf616a",
-        
+
         "sidebar-color": "#2e3440",
         "roomlist-background-color": "#3b4252",
         "roomlist-text-color": "#ebcb8b",
