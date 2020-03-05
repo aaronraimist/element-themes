@@ -1,10 +1,15 @@
-#### Contents
-- [riot-web-themes](#riot-web-themes)
-  * [If you self host Riot or use Riot Desktop:](#if-you-self-host-riot-or-use-riot-desktop)
+# Riot Web Themes
+A place to share themes for [Riot Web](https://github.com/vector-im/riot-web). Riot's [theming documentation](https://github.com/vector-im/riot-web/blob/master/docs/theming.md) has more information on how these work.
+
+#### Discussions
+Join us in [#riot-web-themes:m.dhdf.dev](https://matrix.to/#/!pjCLhvJxLkGjNQFqcB:m.dhdf.dev?via=m.dhdf.dev&via=raim.ist&via=t2bot.io)
+
+### Table of Contents
+- [How to use themes](#how-to-use-themes)
+  * [If you self host Riot or use Riot Desktop](#if-you-self-host-riot-or-use-riot-desktop)
   * [If you use the matrix-docker-ansible-deploy project](#if-you-use-the-matrix-docker-ansible-deploy-project)
   * [If you are a Firefox user](#if-you-are-a-firefox-user)
-  * [Use my Riot Web instance](#use-my-riot-web-instance)
-  * [Discussions](#discussions)
+  * [Or use my instance of Riot Web](#use-my-riot-web-instance)
 - [Themes](#themes)
   * [ThomCat Black](#thomcat-black)
   * [Discord Dark Theme](#discord-dark-theme)
@@ -13,13 +18,12 @@
   * [Selenized Light Theme](#selenized-light-theme)
   * [Selenized Dark Theme](#selenized-dark-theme)
   * [Selenized Black Theme](#selenized-black-theme)
-- [Workarounds](#workarounds)
+- [Advanced](#workarounds)
 
 
-# riot-web-themes
-A place to share themes for [Riot Web](https://github.com/vector-im/riot-web). See the [theming documentation](https://github.com/vector-im/riot-web/blob/master/docs/theming.md) for more information on how these work.
+### How to use themes
 
-There are several different ways to use these. Unfortunately [Riot doesn't yet provide an easy one click way to install themes](https://github.com/vector-im/riot-web/issues/12517). Some options for installing themes include:
+There are several different ways to install these. Unfortunately [Riot doesn't yet provide an easy one click way to install themes](https://github.com/vector-im/riot-web/issues/12517). Some options for installing themes include:
 
 #### If you self host Riot or use Riot Desktop:
 You can use these themes by editing your `config.json` file to include the theme inside of the `settingDefaults` section like this:
@@ -54,8 +58,6 @@ You can install Radical which is Riot web bundled as a Firefox add-on. You can e
 #### Use my Riot Web instance
 Alternatively you can use [my Riot Web instance](https://riot.raim.ist) which has all of these themes preinstalled so there is no configuration required.
 
-#### Discussions
-Join us in [#riot-web-themes:m.dhdf.dev](https://matrix.to/#/!pjCLhvJxLkGjNQFqcB:m.dhdf.dev?via=m.dhdf.dev&via=raim.ist&via=t2bot.io)
 
 # Themes
 
@@ -106,7 +108,7 @@ Made by `@dhmf:dhdf.dev`
 
 # Workarounds
 
-Currently, custom themes might introduce some odd elements.  For example, when using ThomCat Black, the selected reaction 'pill' is outlined in green.
+Riot's theme implementation is fairly limited so custom themes might introduce some odd elements. For example, when using ThomCat Black, the selected reaction 'pill' is outlined in green since Riot doesn't give us a variable to control the color that is used there.
 
 ![pill_before](images/Pill1.png)
 
@@ -120,4 +122,3 @@ sudo -u <nginx/apache_user> cp /tmp/theme-dark-custom.css /<riot_directory>/bund
 The results:
 
 ![pill_after](images/Pill2.png)
-
