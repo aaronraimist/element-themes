@@ -45,7 +45,7 @@ Currently, custom themes might introduce some odd elements.  For example, when u
 
 ![pill_before](images/Pill1.png)
 
-To fix this, we have to edit the custom theme CSS file directly, in this case `theme-dark-custom.css`.  `cssbeautify-cli` is not necessary if your `sed`-fu is better than the authors' is.  
+To fix this, we have to edit the custom theme CSS file directly, in this case `theme-dark-custom.css`.  `cssbeautify-cli` is not necessary if your `sed`-fu is better than the author's is.  
 
 ```
 cssbeautify-cli -f theme-dark-custom.css > /tmp/theme-dark-custom-sed.css 
