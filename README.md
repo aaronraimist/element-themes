@@ -39,23 +39,6 @@ Alternatively you can use [my Riot Web instance](https://riot.raim.ist) which ha
 #### Discussions
 Join us in [#riot-web-themes:m.dhdf.dev](https://matrix.to/#/!pjCLhvJxLkGjNQFqcB:m.dhdf.dev?via=m.dhdf.dev&via=raim.ist&via=t2bot.io)
 
-## Workarounds
-
-Currently, custom themes might introduce some odd elements.  For example, when using ThomCat Black, the selected reaction 'pill' is outlined in green.
-
-![pill_before](images/Pill1.png)
-
-To fix this, we have to edit the custom theme CSS file directly, in this case `theme-dark-custom.css`.  `cssbeautify-cli` is not necessary if your `sed`-fu is better than the author's is.  
-
-```
-cssbeautify-cli -f theme-dark-custom.css > /tmp/theme-dark-custom-sed.css 
-sed '/.mx_ReactionsRowButton.mx_ReactionsRowButton_selected/!b;n;c\ \ \ \ background-color:var(--accent-color);' /tmp/theme-dark-custom-sed.css > /tmp/theme-dark-custom.css
-sudo -u <nginx/apache_user> cp /tmp/theme-dark-custom.css /<riot_directory>/bundles/<bundle_version>/
-```
-The results:
-
-![pill_after](images/Pill2.png)
-
 # Themes
 
 ## [ThomCat Black](ThomCat/ThomCat-Black.json)
@@ -101,3 +84,22 @@ Made by `@dhmf:dhdf.dev`
 Made by `@dhmf:dhdf.dev`
 
 ![Selenized Black Theme Screenshot](Selenized/Selenized%20Black/Selenized%20Black.png)
+
+
+# Workarounds
+
+Currently, custom themes might introduce some odd elements.  For example, when using ThomCat Black, the selected reaction 'pill' is outlined in green.
+
+![pill_before](images/Pill1.png)
+
+To fix this, we have to edit the custom theme CSS file directly, in this case `theme-dark-custom.css`.  `cssbeautify-cli` is not necessary if your `sed`-fu is better than the author's is.
+
+```
+cssbeautify-cli -f theme-dark-custom.css > /tmp/theme-dark-custom-sed.css
+sed '/.mx_ReactionsRowButton.mx_ReactionsRowButton_selected/!b;n;c\ \ \ \ background-color:var(--accent-color);' /tmp/theme-dark-custom-sed.css > /tmp/theme-dark-custom.css
+sudo -u <nginx/apache_user> cp /tmp/theme-dark-custom.css /<riot_directory>/bundles/<bundle_version>/
+```
+The results:
+
+![pill_after](images/Pill2.png)
+
