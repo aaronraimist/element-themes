@@ -39,6 +39,20 @@ Alternatively you can use [my Riot Web instance](https://riot.raim.ist) which ha
 #### Discussions
 Join us in [#riot-web-themes:m.dhdf.dev](https://matrix.to/#/!pjCLhvJxLkGjNQFqcB:m.dhdf.dev?via=m.dhdf.dev&via=raim.ist&via=t2bot.io)
 
+## Workarounds
+
+Currently, custom themes might introduce some odd elements.  For example, when using ThomCat Black, the selected reaction 'pill' is outlined in green.
+[images/Pill1.png]
+
+To fix this, we have to edit the custom theme CSS file directly, in this case `theme-dark-custom.css`  `cssbeautify-cli` is not necessary if your `sed`-fu is better than the authors' is.  
+
+```
+cssbeautify-cli -f theme-dark-custom.css > /tmp/theme-dark-custom-sed.css 
+sed '/.mx_ReactionsRowButton.mx_ReactionsRowButton_selected/!b;n;c\ \ \ \ background-color:var(--accent-color);' /tmp/theme-dark-custom-sed.css > /tmp/theme-dark-custom.css
+sudo -u www-data cp /tmp/theme-dark-custom.css /<riot_directory>/bundles/<random_bundle_version>/
+```
+The results are below:
+[images/Pill2.png]
 
 # Themes
 
