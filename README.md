@@ -1,3 +1,21 @@
+#### Contents
+- [riot-web-themes](#riot-web-themes)
+  * [If you self host Riot or use Riot Desktop:](#if-you-self-host-riot-or-use-riot-desktop)
+  * [If you use the matrix-docker-ansible-deploy project](#if-you-use-the-matrix-docker-ansible-deploy-project)
+  * [If you are a Firefox user](#if-you-are-a-firefox-user)
+  * [Use my Riot Web instance](#use-my-riot-web-instance)
+  * [Discussions](#discussions)
+- [Themes](#themes)
+  * [ThomCat Black](#thomcat-black)
+  * [Discord Dark Theme](#discord-dark-theme)
+  * [Nord Dark Theme](#nord-dark-theme)
+  * [Nord Light Theme](#nord-light-theme)
+  * [Selenized Light Theme](#selenized-light-theme)
+  * [Selenized Dark Theme](#selenized-dark-theme)
+  * [Selenized Black Theme](#selenized-black-theme)
+- [Workarounds](#workarounds)
+
+
 # riot-web-themes
 A place to share themes for [Riot Web](https://github.com/vector-im/riot-web). See the [theming documentation](https://github.com/vector-im/riot-web/blob/master/docs/theming.md) for more information on how these work.
 
@@ -38,7 +56,6 @@ Alternatively you can use [my Riot Web instance](https://riot.raim.ist) which ha
 
 #### Discussions
 Join us in [#riot-web-themes:m.dhdf.dev](https://matrix.to/#/!pjCLhvJxLkGjNQFqcB:m.dhdf.dev?via=m.dhdf.dev&via=raim.ist&via=t2bot.io)
-
 
 # Themes
 
@@ -85,3 +102,22 @@ Made by `@dhmf:dhdf.dev`
 Made by `@dhmf:dhdf.dev`
 
 ![Selenized Black Theme Screenshot](Selenized/Selenized%20Black/Selenized%20Black.png)
+
+
+# Workarounds
+
+Currently, custom themes might introduce some odd elements.  For example, when using ThomCat Black, the selected reaction 'pill' is outlined in green.
+
+![pill_before](images/Pill1.png)
+
+To fix this, we have to edit the custom theme CSS file directly, in this case `theme-dark-custom.css`.  `cssbeautify-cli` is not necessary if your `sed`-fu is better than the author's is.
+
+```
+cssbeautify-cli -f theme-dark-custom.css > /tmp/theme-dark-custom-sed.css
+sed '/.mx_ReactionsRowButton.mx_ReactionsRowButton_selected/!b;n;c\ \ \ \ background-color:var(--accent-color);' /tmp/theme-dark-custom-sed.css > /tmp/theme-dark-custom.css
+sudo -u <nginx/apache_user> cp /tmp/theme-dark-custom.css /<riot_directory>/bundles/<bundle_version>/
+```
+The results:
+
+![pill_after](images/Pill2.png)
+
