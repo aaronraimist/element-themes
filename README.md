@@ -1,3 +1,5 @@
+.. contents::
+
 # riot-web-themes
 A place to share themes for [Riot Web](https://github.com/vector-im/riot-web). See the [theming documentation](https://github.com/vector-im/riot-web/blob/master/docs/theming.md) for more information on how these work.
 
