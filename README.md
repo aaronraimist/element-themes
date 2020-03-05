@@ -1,4 +1,4 @@
-### Contents
+#### Contents
 - [riot-web-themes](#riot-web-themes)
   * [If you self host Riot or use Riot Desktop:](#if-you-self-host-riot-or-use-riot-desktop)
   * [If you use the matrix-docker-ansible-deploy project](#if-you-use-the-matrix-docker-ansible-deploy-project)
