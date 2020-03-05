@@ -1,4 +1,19 @@
-.. contents::
+- [riot-web-themes](#riot-web-themes)
+      - [If you self host Riot or use Riot Desktop:](#if-you-self-host-riot-or-use-riot-desktop)
+      - [If you use the matrix-docker-ansible-deploy project](#if-you-use-the-matrix-docker-ansible-deploy-project)
+      - [If you are a Firefox user](#if-you-are-a-firefox-user)
+      - [Use my Riot Web instance](#use-my-riot-web-instance)
+      - [Discussions](#discussions)
+- [Themes](#themes)
+  * [ThomCat Black](#thomcat-black)
+  * [Discord Dark Theme](#discord-dark-theme)
+  * [Nord Dark Theme](#nord-dark-theme)
+  * [Nord Light Theme](#nord-light-theme)
+  * [Selenized Light Theme](#selenized-light-theme)
+  * [Selenized Dark Theme](#selenized-dark-theme)
+  * [Selenized Black Theme](#selenized-black-theme)
+- [Workarounds](#workarounds)
+
 
 # riot-web-themes
 A place to share themes for [Riot Web](https://github.com/vector-im/riot-web). See the [theming documentation](https://github.com/vector-im/riot-web/blob/master/docs/theming.md) for more information on how these work.
