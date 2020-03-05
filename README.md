@@ -1,14 +1,9 @@
 - [Contents]()
-
-      - [If you self host Riot or use Riot Desktop:](#if-you-self-host-riot-or-use-riot-desktop)
-
-      - [If you use the matrix-docker-ansible-deploy project](#if-you-use-the-matrix-docker-ansible-deploy-project)
-
-      - [If you are a Firefox user](#if-you-are-a-firefox-user)
-
-      - [Use my Riot Web instance](#use-my-riot-web-instance)
-
-      - [Discussions](#discussions)
+  * [If you self host Riot or use Riot Desktop:](#if-you-self-host-riot-or-use-riot-desktop)
+  * [If you use the matrix-docker-ansible-deploy project](#if-you-use-the-matrix-docker-ansible-deploy-project)
+  * [If you are a Firefox user](#if-you-are-a-firefox-user)
+  * [Use my Riot Web instance](#use-my-riot-web-instance)
+  * [Discussions](#discussions)
 - [Themes](#themes)
   * [ThomCat Black](#thomcat-black)
   * [Discord Dark Theme](#discord-dark-theme)
