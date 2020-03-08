@@ -18,6 +18,7 @@ Join us in [#riot-web-themes:m.dhdf.dev](https://matrix.to/#/!pjCLhvJxLkGjNQFqcB
   * [Selenized Light Theme](#selenized-light-theme)
   * [Selenized Dark Theme](#selenized-dark-theme)
   * [Selenized Black Theme](#selenized-black-theme)
+  * [Geeko Dark Theme](#geeko-dark-theme)
 - [Advanced](#workarounds)
 
 
