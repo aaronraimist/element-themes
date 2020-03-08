@@ -81,11 +81,13 @@ Made by `@dhmf:dhdf.dev`
 
 ![Nord Dark Theme Screenshot](Nord/Nord%20Dark/Nord%20Dark.png)
 
+
 ## [Nord Light Theme](Nord/Nord%20Light/Nord%20Light.json)
 
 Made by `@dhmf:dhdf.dev`
 
 ![Nord Light Theme Screenshot](Nord/Nord%20Light/Nord%20Light.png)
+
 
 ## [Selenized Light Theme](Selenized/Selenized%20Light/Selenized%20Light.json)
 
@@ -93,17 +95,27 @@ Made by `@dhmf:dhdf.dev`
 
 ![Selenized Light Theme Screenshot](Selenized/Selenized%20Light/Selenized%20Light.png)
 
+
 ## [Selenized Dark Theme](Selenized/Selenized%20Dark/Selenized%20Dark.json)
 
 Made by `@dhmf:dhdf.dev`
 
 ![Selenized Dark Theme Screenshot](Selenized/Selenized%20Dark/Selenized%20Dark.png)
 
+
 ## [Selenized Black Theme](Selenized/Selenized%20Black/Selenized%20Black.json)
 
 Made by `@dhmf:dhdf.dev`
 
 ![Selenized Black Theme Screenshot](Selenized/Selenized%20Black/Selenized%20Black.png)
+
+
+## [Geeko Dark Theme](Geeko%20Dark/Geeko%20Dark.json)
+
+Made by `@swedneck:hielle.com`
+
+![Geeko Dark Theme Screenshot](Geeko%20Dark/Geeko%20Dark.png)
+
 
 
 # Workarounds

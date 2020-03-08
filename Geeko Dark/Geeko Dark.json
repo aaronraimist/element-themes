@@ -1,18 +1,18 @@
 {
-    "name": "Geeko Dark",
+    "name": "Geeko dark theme",
     "is_dark": true,
     "colors": {
         "accent-color": "#73ba25",
         "primary-color": "#35b9ab",
         "warning-color": "#bf616a",
-    
+
         "sidebar-color": "#2a2a2a",
         "roomlist-background-color": "#4a4a4a",
         "roomlist-text-color": "#fff",
         "roomlist-text-secondary-color": "#ddd",
         "roomlist-highlights-color": "#2a2a2a",
         "roomlist-separator-color": "#3a3a3a",
-    
+
         "timeline-background-color": "#3a3a3a",
         "timeline-text-color": "#eee",
         "timeline-text-secondary-color": "#6da741",
