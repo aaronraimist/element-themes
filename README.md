@@ -71,7 +71,7 @@ Made by `@me:thomcat.rocks`
 ![ThomCat Black Screenshot](ThomCat/ThomCat-Black.png)
 
 
-## [Discord Dark Theme](https://github.com/aaronraimist/riot-web-themes/blob/master/Discord/Discord-Dark/Discord-Dark-Theme.json)
+## [Discord Dark Theme](https://raw.githubusercontent.com/aaronraimist/riot-web-themes/master/Discord/Discord-Dark/Discord-Dark-Theme.json)
 
 Made by `@dhmf:dhdf.dev`
 
