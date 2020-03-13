@@ -24,7 +24,9 @@ Join us in [#riot-web-themes:m.dhdf.dev](https://matrix.to/#/!pjCLhvJxLkGjNQFqcB
 
 ### How to use themes
 
-There are several different ways to install these. Unfortunately Riot's support for one-click install themes isn't complete, but there are other ways to get the themes installed. Some options for installing themes include:
+There are several different ways to install these. For most users it will be easiest to enable the `feature_custom_themes` labs flag (currently only on https://riot.im/develop). This will allow you to install themes by pasting in the URL to the raw JSON of the theme. Hopefully in the future this interface will be polished up and enabled by default for all users.
+
+Some other options for installing themes:
 
 #### If you self host Riot or use Riot Desktop:
 You can use these themes by editing your `config.json` file to include the theme inside of the `settingDefaults` section like this:
@@ -56,65 +58,62 @@ You can enable all of these themes just by setting `matrix_riot_web_themes_enabl
 #### If you are a Firefox user
 You can install Radical which is Riot web bundled as a Firefox add-on. You can edit the `config.json` file right in the add-on preferences. It works really well, you should check it out. https://addons.mozilla.org/en-US/firefox/addon/radical-web/
 
-#### If you use riot.im/develop or enable the `feature_custom_themes` flag
-You can add new themes by using the URL to the raw JSON of the theme in your account settings.
-
 #### Use my Riot Web instance
 Alternatively you can use [my Riot Web instance](https://riot.raim.ist) which has all of these themes preinstalled so there is no configuration required.
 
 
 # Themes
 
-## [ThomCat Black](ThomCat/ThomCat-Black.json)
+## [ThomCat Black](https://raw.githubusercontent.com/aaronraimist/riot-web-themes/master/ThomCat/ThomCat-Black.json)
 
 Made by `@me:thomcat.rocks`
 
 ![ThomCat Black Screenshot](ThomCat/ThomCat-Black.png)
 
 
-## [Discord Dark Theme](Discord/Discord-Dark/Discord-Dark-Theme.json)
+## [Discord Dark Theme](https://github.com/aaronraimist/riot-web-themes/blob/master/Discord/Discord-Dark/Discord-Dark-Theme.json)
 
 Made by `@dhmf:dhdf.dev`
 
 ![Discord Dark Theme Screenshot](Discord/Discord-Dark/Discord-Dark-Theme.png)
 
 
-## [Nord Dark Theme](Nord/Nord%20Dark/Nord%20Dark.json)
+## [Nord Dark Theme](https://raw.githubusercontent.com/aaronraimist/riot-web-themes/master/Nord/Nord%20Dark/Nord%20Dark.json)
 
 Made by `@dhmf:dhdf.dev`
 
 ![Nord Dark Theme Screenshot](Nord/Nord%20Dark/Nord%20Dark.png)
 
 
-## [Nord Light Theme](Nord/Nord%20Light/Nord%20Light.json)
+## [Nord Light Theme](https://raw.githubusercontent.com/aaronraimist/riot-web-themes/master/Nord/Nord%20Light/Nord%20Light.json)
 
 Made by `@dhmf:dhdf.dev`
 
 ![Nord Light Theme Screenshot](Nord/Nord%20Light/Nord%20Light.png)
 
 
-## [Selenized Light Theme](Selenized/Selenized%20Light/Selenized%20Light.json)
+## [Selenized Light Theme](https://raw.githubusercontent.com/aaronraimist/riot-web-themes/master/Selenized/Selenized%20Light/Selenized%20Light.json)
 
 Made by `@dhmf:dhdf.dev`
 
 ![Selenized Light Theme Screenshot](Selenized/Selenized%20Light/Selenized%20Light.png)
 
 
-## [Selenized Dark Theme](Selenized/Selenized%20Dark/Selenized%20Dark.json)
+## [Selenized Dark Theme](https://raw.githubusercontent.com/aaronraimist/riot-web-themes/master/Selenized/Selenized%20Dark/Selenized%20Dark.json)
 
 Made by `@dhmf:dhdf.dev`
 
 ![Selenized Dark Theme Screenshot](Selenized/Selenized%20Dark/Selenized%20Dark.png)
 
 
-## [Selenized Black Theme](Selenized/Selenized%20Black/Selenized%20Black.json)
+## [Selenized Black Theme](https://raw.githubusercontent.com/aaronraimist/riot-web-themes/master/Selenized/Selenized%20Black/Selenized%20Black.json)
 
 Made by `@dhmf:dhdf.dev`
 
 ![Selenized Black Theme Screenshot](Selenized/Selenized%20Black/Selenized%20Black.png)
 
 
-## [Geeko Dark Theme](Geeko%20Dark/Geeko%20Dark.json)
+## [Geeko Dark Theme](https://raw.githubusercontent.com/aaronraimist/riot-web-themes/master/Geeko%20Dark/Geeko%20Dark.json)
 
 Made by `@swedneck:hielle.com`
 
