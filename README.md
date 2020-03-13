@@ -24,7 +24,7 @@ Join us in [#riot-web-themes:m.dhdf.dev](https://matrix.to/#/!pjCLhvJxLkGjNQFqcB
 
 ### How to use themes
 
-There are several different ways to install these. Unfortunately [Riot doesn't yet provide an easy one click way to install themes](https://github.com/vector-im/riot-web/issues/12517). Some options for installing themes include:
+There are several different ways to install these. Unfortunately Riot's support for one-click install themes isn't complete, but there are other ways to get the themes installed. Some options for installing themes include:
 
 #### If you self host Riot or use Riot Desktop:
 You can use these themes by editing your `config.json` file to include the theme inside of the `settingDefaults` section like this:
@@ -55,6 +55,9 @@ You can enable all of these themes just by setting `matrix_riot_web_themes_enabl
 
 #### If you are a Firefox user
 You can install Radical which is Riot web bundled as a Firefox add-on. You can edit the `config.json` file right in the add-on preferences. It works really well, you should check it out. https://addons.mozilla.org/en-US/firefox/addon/radical-web/
+
+#### If you use riot.im/develop or enable the `feature_custom_themes` flag
+You can add new themes by using the URL to the raw JSON of the theme in your account settings.
 
 #### Use my Riot Web instance
 Alternatively you can use [my Riot Web instance](https://riot.raim.ist) which has all of these themes preinstalled so there is no configuration required.
