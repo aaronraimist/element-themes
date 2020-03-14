@@ -1,6 +1,8 @@
 # Riot Web Themes
 A place to share themes for [Riot Web](https://github.com/vector-im/riot-web). Riot's [theming documentation](https://github.com/vector-im/riot-web/blob/master/docs/theming.md) has more information on how these work.
 
+These themes are using the relatively basic Riot themeing system which can only change a limited number of colors. For more advanced themes where you want to customize all the colors or things like fonts and button shapes you'll need to use custom CSS files. See https://github.com/dannycolin/riot-compact for an example of a more advanced theme.
+
 #### Discussions
 Join us in [#riot-web-themes:m.dhdf.dev](https://matrix.to/#/!pjCLhvJxLkGjNQFqcB:m.dhdf.dev?via=m.dhdf.dev&via=raim.ist&via=t2bot.io)
 
