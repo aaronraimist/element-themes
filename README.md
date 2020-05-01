@@ -80,6 +80,12 @@ Made by `@dhmf:dhdf.dev`
 ![Discord Dark Theme Screenshot](Discord/Discord-Dark/Discord-Dark-Theme.png)
 
 
+## [Luxury Dark Theme](./Luxury/Luxury%20Dark.json)
+
+Made by `@dhmf:dhdf.dev`
+
+![Luxury Dark Theme Screenshot](./Luxury/Luxury%20Dark.png)
+
 ## [Nord Dark Theme](https://raw.githubusercontent.com/aaronraimist/riot-web-themes/master/Nord/Nord%20Dark/Nord%20Dark.json)
 
 Made by `@dhmf:dhdf.dev`

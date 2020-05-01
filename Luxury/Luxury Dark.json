@@ -1,0 +1,22 @@
+{
+    "name": "Luxury Dark theme",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#D9BC00",
+        "primary-color": "#FFDD00",
+        "warning-color": "#FBC403",
+        
+        "sidebar-color": "#020F1B",
+        "roomlist-background-color": "#011223",
+        "roomlist-highlights-color": "#1E354A",
+        "roomlist-separator-color": "#05192D", 
+        "roomlist-text-color": "#FFEC70",
+        "roomlist-text-secondary-color": "#FFF3A4",
+        
+        "timeline-background-color": "#05192D",
+        "timeline-highlights-color": "#32353b",
+        "timeline-text-color": "#FFF3A4",
+        "timeline-text-secondary-color": "#A79000",
+        "reaction-row-button-selected-bg-color": "#FFEC70"
+    }
+}
