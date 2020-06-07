@@ -13,15 +13,18 @@ Join us in [#riot-web-themes:dhdf.dev](https://matrix.to/#/!pjCLhvJxLkGjNQFqcB:m
   * [If you are a Firefox user](#if-you-are-a-firefox-user)
   * [Or use my instance of Riot Web](#use-my-riot-web-instance)
 - [Themes](#themes)
-  * [ThomCat Black](#thomcat-black)
   * [Discord Dark Theme](#discord-dark-theme)
+  * [Geeko Dark Theme](#geeko-dark-theme)
+  * [Luxury Dark Theme](#luxury-dark-theme)
   * [Nord Dark Theme](#nord-dark-theme)
   * [Nord Light Theme](#nord-light-theme)
-  * [Selenized Light Theme](#selenized-light-theme)
-  * [Selenized Dark Theme](#selenized-dark-theme)
   * [Selenized Black Theme](#selenized-black-theme)
-  * [Geeko Dark Theme](#geeko-dark-theme)
-- [Advanced](#workarounds)
+  * [Selenized Dark Theme](#selenized-dark-theme)
+  * [Selenized Light Theme](#selenized-light-theme)
+  * [ThomCat Black](#thomcat-black)
+- [Advanced](#advanced)
+  * [Workarounds](#workarounds)
+  * [build.py](#build.py)
 
 
 ### How to use themes
@@ -80,11 +83,11 @@ Made by `@dhmf:dhdf.dev`
 ![Discord Dark Theme Screenshot](Discord/Discord-Dark/Discord-Dark-Theme.png)
 
 
-## [Luxury Dark Theme](./Luxury/Luxury%20Dark.json)
+## [Luxury Dark Theme](./Luxury/Luxury%20Dark/Luxury%20Dark.json)
 
 Made by `@dhmf:dhdf.dev`
 
-![Luxury Dark Theme Screenshot](./Luxury/Luxury%20Dark.png)
+![Luxury Dark Theme Screenshot](./Luxury/Luxury%20Dark/Luxury%20Dark.png)
 
 ## [Nord Dark Theme](https://raw.githubusercontent.com/aaronraimist/riot-web-themes/master/Nord/Nord%20Dark/Nord%20Dark.json)
 
@@ -129,7 +132,9 @@ Made by `@swedneck:hielle.com`
 
 
 
-# Workarounds
+# Advanced
+
+## Workarounds
 
 Riot's theme implementation is fairly limited so custom themes might introduce some odd elements. For example, when using ThomCat Black, the selected reaction 'pill' is outlined in green since Riot doesn't give us a variable to control the color that is used there.
 
@@ -145,3 +150,7 @@ sudo -u <nginx/apache_user> cp /tmp/theme-dark-custom.css /<riot_directory>/bund
 The results:
 
 ![pill_after](images/Pill2.png)
+
+## build.py
+There is a [build.py](./build.py) python file which takes all the themes and 
+outputs it to a file as an array of JSON. Simply execute it in this directory.
