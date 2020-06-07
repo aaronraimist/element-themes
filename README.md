@@ -119,7 +119,7 @@ Made by `@dhmf:dhdf.dev`
 
 ## [Selenized Black Theme](https://raw.githubusercontent.com/aaronraimist/riot-web-themes/master/Selenized/Selenized%20Black/Selenized%20Black.json)
 
-Made by `@dhmf:dhdf.dev`
+Made by `@dhmf:dhdf.dev` and `@david:vovo.id.au`
 
 ![Selenized Black Theme Screenshot](Selenized/Selenized%20Black/Selenized%20Black.png)
 

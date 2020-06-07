@@ -2,21 +2,21 @@
     "name": "Selenized black theme",
     "is_dark": true,
     "colors": {
-        "accent-color": "#368aeb",
+        "accent-color": "#70b433",
         "primary-color": "#4695f7",
         "warning-color": "#ed4a46",
 
         "sidebar-color": "#181818",
-        "roomlist-background-color": "#181818",
-        "roomlist-text-color": "#dbb32d",
-        "roomlist-text-secondary-color": "#FFFFFF",
+        "roomlist-background-color": "#252525",
+        "roomlist-text-color": "#ffffff",
+        "roomlist-text-secondary-color": "#b9b9b9",
         "roomlist-highlights-color": "#3b3b3b",
         "roomlist-separator-color": "#121212",
 
         "timeline-background-color": "#181818",
         "timeline-text-color": "#FFFFFF",
         "timeline-text-secondary-color": "#777777",
-        "timeline-highlights-color": "#181818",
+        "timeline-highlights-color": "#252525",
         "reaction-row-button-selected-bg-color": "#4695f7"
     }
 }
