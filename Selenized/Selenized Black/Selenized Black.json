@@ -16,7 +16,7 @@
         "timeline-background-color": "#181818",
         "timeline-text-color": "#FFFFFF",
         "timeline-text-secondary-color": "#777777",
-        "timeline-highlights-color": "#bf616a",
+        "timeline-highlights-color": "#181818",
         "reaction-row-button-selected-bg-color": "#4695f7"
     }
 }
