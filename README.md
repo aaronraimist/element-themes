@@ -22,6 +22,7 @@ Join us in [#riot-web-themes:dhdf.dev](https://matrix.to/#/!pjCLhvJxLkGjNQFqcB:m
   * [Selenized Dark Theme](#selenized-dark-theme)
   * [Selenized Light Theme](#selenized-light-theme)
   * [ThomCat Black](#thomcat-black)
+  * [Dracula Dark Theme](#dracula-dark-theme)
 - [Advanced](#advanced)
   * [Workarounds](#workarounds)
   * [build.py](#build.py)
@@ -130,6 +131,11 @@ Made by `@swedneck:hielle.com`
 
 ![Geeko Dark Theme Screenshot](Geeko%20Dark/Geeko%20Dark.png)
 
+## [Dracula Dark Theme](https://raw.githubusercontent.com/aaronraimist/riot-web-themes/master/Dracula/Dracula.json)
+
+Made by `@jo:catgirl.party`
+
+![Dracula Dark Theme Screenshot](Dracula/screenshot%20%2020-06-16%2003-05-42.png)
 
 
 # Advanced
