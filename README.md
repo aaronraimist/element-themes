@@ -127,7 +127,7 @@ Made by `@dhmf:dhdf.dev` and `@david:vovo.id.au`
 
 ## [Geeko Dark Theme](https://raw.githubusercontent.com/aaronraimist/riot-web-themes/master/Geeko%20Dark/Geeko%20Dark.json)
 
-Made by `@swedneck:hielle.com`
+Made by `@swedneck:feneas.org`
 
 ![Geeko Dark Theme Screenshot](Geeko%20Dark/Geeko%20Dark.png)
 
