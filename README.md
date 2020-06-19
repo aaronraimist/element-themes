@@ -134,7 +134,7 @@ Made by `@swedneck:feneas.org`
 
 ## [Dracula Dark Theme](https://raw.githubusercontent.com/aaronraimist/riot-web-themes/patch-2/Dracula/Non-flat/Dracula.json)
 
-Made by `@jo:catgirl.party`
+Made by `@jakobr_107:utwente.io`
 
 ![Dracula Dark Theme Screenshot](Dracula/Non-flat/screenshot%20%2020-06-19%2014-09-11.png)
 
