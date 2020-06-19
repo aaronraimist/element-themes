@@ -132,13 +132,13 @@ Made by `@swedneck:feneas.org`
 
 ![Geeko Dark Theme Screenshot](Geeko%20Dark/Geeko%20Dark.png)
 
-## [Dracula Dark Theme](https://raw.githubusercontent.com/aaronraimist/riot-web-themes/patch-2/Dracula/Non-flat/Dracula.json)
+## [Dracula Dark Theme](https://raw.githubusercontent.com/aaronraimist/riot-web-themes/master/Dracula/Non-flat/Dracula.json)
 
 Made by `@jakobr_107:utwente.io`
 
 ![Dracula Dark Theme Screenshot](Dracula/Non-flat/screenshot%20%2020-06-19%2014-09-11.png)
 
-## [Dracula Flat Dark Theme](https://raw.githubusercontent.com/aaronraimist/riot-web-themes/patch-2/Dracula/Flat/DraculaFlat.json)
+## [Dracula Flat Dark Theme](https://raw.githubusercontent.com/aaronraimist/riot-web-themes/master/Dracula/Flat/DraculaFlat.json)
 
 Made by `@jo:catgirl.party`
 
