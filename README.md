@@ -85,7 +85,7 @@ Made by `@dhmf:dhdf.dev`
 ![Discord Dark Theme Screenshot](Discord/Discord-Dark/Discord-Dark-Theme.png)
 
 
-## [Luxury Dark Theme](./Luxury/Luxury%20Dark/Luxury%20Dark.json)
+## [Luxury Dark Theme](https://raw.githubusercontent.com/aaronraimist/riot-web-themes/master/Luxury/Luxury%20Dark/Luxury%20Dark.json)
 
 Made by `@dhmf:dhdf.dev`
 
