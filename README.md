@@ -39,21 +39,23 @@ Some other options for installing themes:
 You can use these themes by editing your `config.json` file to include the theme inside of the `settingDefaults` section like this:
 
 ```json
-"settingDefaults": {
-    "custom_themes": [
-        {
-            "name": "Example theme",
-            "colors": {
-                "primary-color": "#9F8652"
+{
+    "settingDefaults": {
+        "custom_themes": [
+            {
+                "name": "Example theme",
+                "colors": {
+                    "primary-color": "#9F8652"
+                }
+            },
+            {
+                "name": "Another theme",
+                "colors": {
+                    "primary-color": "#526A9E"
+                }
             }
-        },
-        {
-            "name": "Another theme",
-            "colors": {
-                "primary-color": "#526A9E"
-            }
-        }
-    ]
+        ]
+    }
 }
 ```
 
