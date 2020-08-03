@@ -1,5 +1,5 @@
 # Element Web Themes
-A place to share themes for [Element Web](https://github.com/vector-im/riot-web). Element's [theming documentation](https://github.com/vector-im/element-web/blob/master/docs/theming.md) has more information on how these work.
+A place to share themes for [Element Web](https://github.com/vector-im/element-web). Element's [theming documentation](https://github.com/vector-im/element-web/blob/master/docs/theming.md) has more information on how these work.
 
 These themes are using the relatively basic Element themeing system which can only change a limited number of colors. For more advanced themes where you want to customize all the colors or things like fonts and button shapes you'll need to use custom CSS files. See https://github.com/dannycolin/riot-compact for an example of a more advanced theme.
 
@@ -57,13 +57,13 @@ You can use these themes by editing your `config.json` file to include the theme
 }
 ```
 
-To setup a `config.json` file with Riot Desktop, see https://github.com/vector-im/riot-web/blob/master/docs/config.md#desktop-app-configuration
+To setup a `config.json` file with Element Desktop, see https://github.com/vector-im/element-web/blob/master/docs/config.md#desktop-app-configuration
 
 #### If you use the matrix-docker-ansible-deploy project
 You can enable all of these themes just by setting `matrix_client_element_themes_enabled: true` in your `vars.yml` file. See https://github.com/spantaleev/matrix-docker-ansible-deploy/blob/master/docs/configuring-playbook-client-element.md#themes for more details.
 
 #### If you are a Firefox user
-You can install Radical which is Riot web bundled as a Firefox add-on. You can edit the `config.json` file right in the add-on preferences. It works really well, you should check it out. https://addons.mozilla.org/en-US/firefox/addon/radical-web/
+You can install Radical which is Element bundled as a Firefox add-on. You can edit the `config.json` file right in the add-on preferences. It works really well, you should check it out. https://addons.mozilla.org/en-US/firefox/addon/radical-web/
 
 #### Use my Element Web instance
 Alternatively you can use [my Element Web instance](https://riot.raim.ist) which has all of these themes preinstalled so there is no configuration required.
@@ -71,74 +71,74 @@ Alternatively you can use [my Element Web instance](https://riot.raim.ist) which
 
 # Themes
 
-## [ThomCat Black](https://raw.githubusercontent.com/aaronraimist/riot-web-themes/master/ThomCat/ThomCat-Black.json)
+## [ThomCat Black](https://raw.githubusercontent.com/aaronraimist/element-themes/master/ThomCat/ThomCat-Black.json)
 
 Made by `@me:thomcat.rocks`
 
 ![ThomCat Black Screenshot](ThomCat/ThomCat-Black.png)
 
 
-## [Discord Dark Theme](https://raw.githubusercontent.com/aaronraimist/riot-web-themes/master/Discord/Discord-Dark/Discord-Dark-Theme.json)
+## [Discord Dark Theme](https://raw.githubusercontent.com/aaronraimist/element-themes/master/Discord/Discord-Dark/Discord-Dark-Theme.json)
 
 Made by [`@dhmf:dhdf.dev`](https://github.com/dhghf)
 
 ![Discord Dark Theme Screenshot](Discord/Discord-Dark/Discord-Dark-Theme.png)
 
 
-## [Luxury Dark Theme](https://raw.githubusercontent.com/aaronraimist/riot-web-themes/master/Luxury/Luxury%20Dark/Luxury%20Dark.json)
+## [Luxury Dark Theme](https://raw.githubusercontent.com/aaronraimist/element-themes/master/Luxury/Luxury%20Dark/Luxury%20Dark.json)
 
 Made by [`@dhmf:dhdf.dev`](https://github.com/dhghf)
 
 ![Luxury Dark Theme Screenshot](./Luxury/Luxury%20Dark/Luxury%20Dark.png)
 
-## [Nord Dark Theme](https://raw.githubusercontent.com/aaronraimist/riot-web-themes/master/Nord/Nord%20Dark/Nord%20Dark.json)
+## [Nord Dark Theme](https://raw.githubusercontent.com/aaronraimist/element-themes/master/Nord/Nord%20Dark/Nord%20Dark.json)
 
 Made by [`@dhmf:dhdf.dev`](https://github.com/dhghf)
 
 ![Nord Dark Theme Screenshot](Nord/Nord%20Dark/Nord%20Dark.png)
 
 
-## [Nord Light Theme](https://raw.githubusercontent.com/aaronraimist/riot-web-themes/master/Nord/Nord%20Light/Nord%20Light.json)
+## [Nord Light Theme](https://raw.githubusercontent.com/aaronraimist/element-themes/master/Nord/Nord%20Light/Nord%20Light.json)
 
 Made by [`@dhmf:dhdf.dev`](https://github.com/dhghf)
 
 ![Nord Light Theme Screenshot](Nord/Nord%20Light/Nord%20Light.png)
 
 
-## [Selenized Light Theme](https://raw.githubusercontent.com/aaronraimist/riot-web-themes/master/Selenized/Selenized%20Light/Selenized%20Light.json)
+## [Selenized Light Theme](https://raw.githubusercontent.com/aaronraimist/element-themes/master/Selenized/Selenized%20Light/Selenized%20Light.json)
 
 Made by [`@dhmf:dhdf.dev`](https://github.com/dhghf)
 
 ![Selenized Light Theme Screenshot](Selenized/Selenized%20Light/Selenized%20Light.png)
 
 
-## [Selenized Dark Theme](https://raw.githubusercontent.com/aaronraimist/riot-web-themes/master/Selenized/Selenized%20Dark/Selenized%20Dark.json)
+## [Selenized Dark Theme](https://raw.githubusercontent.com/aaronraimist/element-themes/master/Selenized/Selenized%20Dark/Selenized%20Dark.json)
 
 Made by [`@dhmf:dhdf.dev`](https://github.com/dhghf)
 
 ![Selenized Dark Theme Screenshot](Selenized/Selenized%20Dark/Selenized%20Dark.png)
 
 
-## [Selenized Black Theme](https://raw.githubusercontent.com/aaronraimist/riot-web-themes/master/Selenized/Selenized%20Black/Selenized%20Black.json)
+## [Selenized Black Theme](https://raw.githubusercontent.com/aaronraimist/element-themes/master/Selenized/Selenized%20Black/Selenized%20Black.json)
 
 Made by [`@dhmf:dhdf.dev`](https://github.com/dhghf) and `@david:vovo.id.au`
 
 ![Selenized Black Theme Screenshot](Selenized/Selenized%20Black/Selenized%20Black.png)
 
 
-## [Geeko Dark Theme](https://raw.githubusercontent.com/aaronraimist/riot-web-themes/master/Geeko%20Dark/Geeko%20Dark.json)
+## [Geeko Dark Theme](https://raw.githubusercontent.com/aaronraimist/element-themes/master/Geeko%20Dark/Geeko%20Dark.json)
 
 Made by `@swedneck:feneas.org`
 
 ![Geeko Dark Theme Screenshot](Geeko%20Dark/Geeko%20Dark.png)
 
-## [Dracula Dark Theme](https://raw.githubusercontent.com/aaronraimist/riot-web-themes/master/Dracula/Non-flat/Dracula.json)
+## [Dracula Dark Theme](https://raw.githubusercontent.com/aaronraimist/element-themes/master/Dracula/Non-flat/Dracula.json)
 
 Made by `@jakobr_107:utwente.io`
 
 ![Dracula Dark Theme Screenshot](Dracula/Non-flat/screenshot%20%2020-06-19%2014-09-11.png)
 
-## [Dracula Flat Dark Theme](https://raw.githubusercontent.com/aaronraimist/riot-web-themes/master/Dracula/Flat/DraculaFlat.json)
+## [Dracula Flat Dark Theme](https://raw.githubusercontent.com/aaronraimist/element-themes/master/Dracula/Flat/DraculaFlat.json)
 
 Made by `@jo:catgirl.party`
 
@@ -148,7 +148,7 @@ Made by `@jo:catgirl.party`
 
 ## Workarounds
 
-Riot's theme implementation is fairly limited so custom themes might introduce some odd elements. For example, when using ThomCat Black, the selected reaction 'pill' is outlined in green since Riot doesn't give us a variable to control the color that is used there.
+Element's theme implementation is fairly limited so custom themes might introduce some odd elements. For example, when using ThomCat Black, the selected reaction 'pill' is outlined in green since Element doesn't give us a variable to control the color that is used there.
 
 ![pill_before](images/Pill1.png)
 
@@ -157,7 +157,7 @@ To fix this, we have to edit the custom theme CSS file directly, in this case `t
 ```
 cssbeautify-cli -f theme-dark-custom.css > /tmp/theme-dark-custom-sed.css
 sed '/.mx_ReactionsRowButton.mx_ReactionsRowButton_selected/!b;n;c\ \ \ \ background-color:var(--accent-color);' /tmp/theme-dark-custom-sed.css > /tmp/theme-dark-custom.css
-sudo -u <nginx/apache_user> cp /tmp/theme-dark-custom.css /<riot_directory>/bundles/<bundle_version>/
+sudo -u <nginx/apache_user> cp /tmp/theme-dark-custom.css /<element_directory>/bundles/<bundle_version>/
 ```
 The results:
 
