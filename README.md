@@ -1,17 +1,17 @@
-# Riot Web Themes
-A place to share themes for [Riot Web](https://github.com/vector-im/riot-web). Riot's [theming documentation](https://github.com/vector-im/riot-web/blob/master/docs/theming.md) has more information on how these work.
+# Element Web Themes
+A place to share themes for [Element Web](https://github.com/vector-im/riot-web). Element's [theming documentation](https://github.com/vector-im/element-web/blob/master/docs/theming.md) has more information on how these work.
 
-These themes are using the relatively basic Riot themeing system which can only change a limited number of colors. For more advanced themes where you want to customize all the colors or things like fonts and button shapes you'll need to use custom CSS files. See https://github.com/dannycolin/riot-compact for an example of a more advanced theme.
+These themes are using the relatively basic Element themeing system which can only change a limited number of colors. For more advanced themes where you want to customize all the colors or things like fonts and button shapes you'll need to use custom CSS files. See https://github.com/dannycolin/riot-compact for an example of a more advanced theme.
 
 #### Discussions
-Join us in [#riot-web-themes:dhdf.dev](https://matrix.to/#/!pjCLhvJxLkGjNQFqcB:m.dhdf.dev?via=raim.ist&via=matrix.org&via=dhdf.dev)
+Join us in [#element-themes:raim.ist](https://matrix.to/#/!pjCLhvJxLkGjNQFqcB:m.dhdf.dev?via=raim.ist&via=matrix.org&via=dhdf.dev)
 
 ### Table of Contents
 - [How to use themes](#how-to-use-themes)
-  * [If you self host Riot or use Riot Desktop](#if-you-self-host-riot-or-use-riot-desktop)
+  * [If you self host Element or use Element Desktop](#if-you-self-host-element-or-use-element-desktop)
   * [If you use the matrix-docker-ansible-deploy project](#if-you-use-the-matrix-docker-ansible-deploy-project)
   * [If you are a Firefox user](#if-you-are-a-firefox-user)
-  * [Or use my instance of Riot Web](#use-my-riot-web-instance)
+  * [Or use my instance of Element Web](#use-my-element-web-instance)
 - [Themes](#themes)
   * [Discord Dark Theme](#discord-dark-theme)
   * [Geeko Dark Theme](#geeko-dark-theme)
@@ -35,7 +35,7 @@ There are several different ways to install these. For most users it will be eas
 
 Some other options for installing themes:
 
-#### If you self host Riot or use Riot Desktop:
+#### If you self host Element or use Element Desktop:
 You can use these themes by editing your `config.json` file to include the theme inside of the `settingDefaults` section like this:
 
 ```json
@@ -60,13 +60,13 @@ You can use these themes by editing your `config.json` file to include the theme
 To setup a `config.json` file with Riot Desktop, see https://github.com/vector-im/riot-web/blob/master/docs/config.md#desktop-app-configuration
 
 #### If you use the matrix-docker-ansible-deploy project
-You can enable all of these themes just by setting `matrix_riot_web_themes_enabled: true` in your `vars.yml` file. See https://github.com/spantaleev/matrix-docker-ansible-deploy/blob/master/docs/configuring-playbook-client-element.md#themes for more details.
+You can enable all of these themes just by setting `matrix_client_element_themes_enabled: true` in your `vars.yml` file. See https://github.com/spantaleev/matrix-docker-ansible-deploy/blob/master/docs/configuring-playbook-client-element.md#themes for more details.
 
 #### If you are a Firefox user
 You can install Radical which is Riot web bundled as a Firefox add-on. You can edit the `config.json` file right in the add-on preferences. It works really well, you should check it out. https://addons.mozilla.org/en-US/firefox/addon/radical-web/
 
-#### Use my Riot Web instance
-Alternatively you can use [my Riot Web instance](https://riot.raim.ist) which has all of these themes preinstalled so there is no configuration required.
+#### Use my Element Web instance
+Alternatively you can use [my Element Web instance](https://riot.raim.ist) which has all of these themes preinstalled so there is no configuration required.
 
 
 # Themes
