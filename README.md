@@ -59,7 +59,7 @@ You can use these themes by editing your `config.json` file to include the theme
 }
 ```
 
-To setup a `config.json` file with Element Desktop, see https://github.com/vector-im/element-web/blob/master/docs/config.md#desktop-app-configuration
+To setup a `config.json` file with Element Desktop, see https://github.com/vector-im/element-desktop#user-specified-configjson
 
 #### If you use the matrix-docker-ansible-deploy project
 You can enable all of these themes just by setting `matrix_client_element_themes_enabled: true` in your `vars.yml` file. See https://github.com/spantaleev/matrix-docker-ansible-deploy/blob/master/docs/configuring-playbook-client-element.md#themes for more details.
