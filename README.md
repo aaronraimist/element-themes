@@ -1,7 +1,7 @@
 # Element Web Themes
 A place to share themes for [Element Web](https://github.com/vector-im/element-web). Element's [theming documentation](https://github.com/vector-im/element-web/blob/master/docs/theming.md) has more information on how these work.
 
-These themes are using the relatively basic Element themeing system which can only change a limited number of colors. For more advanced themes where you want to customize all the colors or things like fonts and button shapes you'll need to use custom CSS files. See https://github.com/dannycolin/riot-compact for an example of a more advanced theme.
+These themes are using the relatively basic Element theming system which can only change a limited number of colors. For more advanced themes where you want to customize all the colors or things like fonts and button shapes you'll need to use custom CSS files. See https://github.com/dannycolin/riot-compact for an example of a more advanced theme.
 
 #### Discussions
 Join us in [#element-themes:raim.ist](https://matrix.to/#/!pjCLhvJxLkGjNQFqcB:m.dhdf.dev?via=raim.ist&via=matrix.org&via=dhdf.dev)
@@ -31,7 +31,7 @@ Join us in [#element-themes:raim.ist](https://matrix.to/#/!pjCLhvJxLkGjNQFqcB:m.
 
 ### How to use themes
 
-There are several different ways to install these. For most users it will be easiest to enable the `feature_custom_themes` labs flag (currently only on https://riot.im/develop). This will allow you to install themes by pasting in the URL to the raw JSON of the theme. Hopefully in the future this interface will be polished up and enabled by default for all users.
+There are several different ways to install these. For most users it will be easiest to enable the `feature_custom_themes` labs flag. This will allow you to install themes by pasting in the URL to the raw JSON of the theme. Hopefully in the future this interface will be polished up and enabled by default for all users.
 
 Some other options for installing themes:
 
