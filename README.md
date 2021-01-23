@@ -82,48 +82,48 @@ Made by `@me:thomcat.rocks`
 
 ## [Discord Dark Theme](https://raw.githubusercontent.com/aaronraimist/element-themes/master/Discord/Discord-Dark/Discord-Dark-Theme.json)
 
-Made by [`@dylhack:dhdf.dev`](https://github.com/dylhack)
+Made by [`@dylhack:newcircuit.io`](https://github.com/dylhack)
 
 ![Discord Dark Theme Screenshot](Discord/Discord-Dark/Discord-Dark-Theme.png)
 
 
 ## [Luxury Dark Theme](https://raw.githubusercontent.com/aaronraimist/element-themes/master/Luxury/Luxury%20Dark/Luxury%20Dark.json)
 
-Made by [`@dylhack:dhdf.dev`](https://github.com/dylhack)
+Made by [`@dylhack:newcircuit.io`](https://github.com/dylhack)
 
 ![Luxury Dark Theme Screenshot](./Luxury/Luxury%20Dark/Luxury%20Dark.png)
 
 ## [Nord Dark Theme](https://raw.githubusercontent.com/aaronraimist/element-themes/master/Nord/Nord%20Dark/Nord%20Dark.json)
 
-Made by [`@dylhack:dhdf.dev`](https://github.com/dylhack)
+Made by [`@dylhack:newcircuit.io`](https://github.com/dylhack)
 
 ![Nord Dark Theme Screenshot](Nord/Nord%20Dark/Nord%20Dark.png)
 
 
 ## [Nord Light Theme](https://raw.githubusercontent.com/aaronraimist/element-themes/master/Nord/Nord%20Light/Nord%20Light.json)
 
-Made by [`@dylhack:dhdf.dev`](https://github.com/dylhack)
+Made by [`@dylhack:newcircuit.io`](https://github.com/dylhack)
 
 ![Nord Light Theme Screenshot](Nord/Nord%20Light/Nord%20Light.png)
 
 
 ## [Selenized Light Theme](https://raw.githubusercontent.com/aaronraimist/element-themes/master/Selenized/Selenized%20Light/Selenized%20Light.json)
 
-Made by [`@dylhack:dhdf.dev`](https://github.com/dylhack)
+Made by [`@dylhack:newcircuit.io`](https://github.com/dylhack)
 
 ![Selenized Light Theme Screenshot](Selenized/Selenized%20Light/Selenized%20Light.png)
 
 
 ## [Selenized Dark Theme](https://raw.githubusercontent.com/aaronraimist/element-themes/master/Selenized/Selenized%20Dark/Selenized%20Dark.json)
 
-Made by [`@dylhack:dhdf.dev`](https://github.com/dylhack)
+Made by [`@dylhack:newcircuit.io`](https://github.com/dylhack)
 
 ![Selenized Dark Theme Screenshot](Selenized/Selenized%20Dark/Selenized%20Dark.png)
 
 
 ## [Selenized Black Theme](https://raw.githubusercontent.com/aaronraimist/element-themes/master/Selenized/Selenized%20Black/Selenized%20Black.json)
 
-Made by [`@dylhack:dhdf.dev`](https://github.com/dylhack) and `@david:vovo.id.au`
+Made by [`@dylhack:newcircuit.io`](https://github.com/dylhack) and `@david:vovo.id.au`
 
 ![Selenized Black Theme Screenshot](Selenized/Selenized%20Black/Selenized%20Black.png)
 
@@ -166,5 +166,5 @@ The results:
 ![pill_after](images/Pill2.png)
 
 ## build.py
-There is a [build.py](./build.py) python file which takes all the themes and 
+There is a [build.py](./build.py) python file which takes all the themes and
 outputs it to a file as an array of JSON. Simply execute it in this directory.
