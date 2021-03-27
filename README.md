@@ -31,12 +31,12 @@ Join us in [#element-themes:raim.ist](https://matrix.to/#/#element-themes:raim.i
 
 ### How to use themes
 
-There are several different ways to install these. For most users it will be easiest to enable the `feature_custom_themes` labs flag. This will allow you to install themes by pasting in the URL to the raw JSON of the theme. Hopefully in the future this interface will be polished up and enabled by default for all users.
+There are several different ways to install these themes. For most users it will be easiest to enable the "Support adding custom themes" (`feature_custom_themes`) labs feature. This will allow you to install themes by pasting in the URL to the raw JSON of the theme. Hopefully in the future this interface will be polished up and enabled by default for all users.
 
 Some other options for installing themes:
 
 #### If you self host Element or use Element Desktop:
-You can use these themes by editing your `config.json` file to include the theme inside of the `settingDefaults` section like this:
+You can use these themes by editing your `config.json` file to include the theme you want inside of the `settingDefaults` section like this:
 
 ```json
 {
@@ -55,9 +55,12 @@ You can use these themes by editing your `config.json` file to include the theme
                 }
             }
         ]
-    }
+    },
+    "showLabsSettings": true
 }
 ```
+
+You will need to enable "Support adding custom themes" in the Labs section of Settings to make these themes appear in the Appearance section of Settings.
 
 To setup a `config.json` file with Element Desktop, see https://github.com/vector-im/element-desktop#user-specified-configjson
 
