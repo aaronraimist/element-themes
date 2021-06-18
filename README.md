@@ -21,6 +21,7 @@ Join us in [#element-themes:raim.ist](https://matrix.to/#/#element-themes:raim.i
   * [Selenized Black Theme](#selenized-black-theme)
   * [Selenized Dark Theme](#selenized-dark-theme)
   * [Selenized Light Theme](#selenized-light-theme)
+  * [Solarized Dark Theme](#solarized-dark-theme)
   * [ThomCat Black](#thomcat-black)
   * [Dracula Dark Theme](#dracula-dark-theme)
   * [Dracula Flat Dark Theme](#dracula-flat-dark-theme)
@@ -129,6 +130,13 @@ Made by [`@dylhack:newcircuit.io`](https://github.com/dylhack)
 Made by [`@dylhack:newcircuit.io`](https://github.com/dylhack) and `@david:vovo.id.au`
 
 ![Selenized Black Theme Screenshot](Selenized/Selenized%20Black/Selenized%20Black.png)
+
+
+## [Solarized Dark Theme](https://raw.githubusercontent.com/aaronraimist/element-themes/master/Solarized/Solarized%20Dark/Solarized%20Dark.json)
+
+Made by `@jasonic5:matrix.org`
+
+![Solarized Dark Theme Screenshot](Solarized/Solarized%20Dark/Solarized%20Dark.png)
 
 
 ## [Geeko Dark Theme](https://raw.githubusercontent.com/aaronraimist/element-themes/master/Geeko%20Dark/Geeko%20Dark.json)
