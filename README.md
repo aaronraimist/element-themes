@@ -10,7 +10,6 @@ Join us in [#element-themes:raim.ist](https://matrix.to/#/#element-themes:raim.i
 - [How to use themes](#how-to-use-themes)
   * [If you self host Element or use Element Desktop](#if-you-self-host-element-or-use-element-desktop)
   * [If you use the matrix-docker-ansible-deploy project](#if-you-use-the-matrix-docker-ansible-deploy-project)
-  * [If you are a Firefox user](#if-you-are-a-firefox-user)
   * [Or use my instance of Element Web](#use-my-element-web-instance)
 - [Themes](#themes)
   * [Discord Dark Theme](#discord-dark-theme)
@@ -67,9 +66,6 @@ To setup a `config.json` file with Element Desktop, see https://github.com/vecto
 
 #### If you use the matrix-docker-ansible-deploy project
 You can enable all of these themes just by setting `matrix_client_element_themes_enabled: true` in your `vars.yml` file. See https://github.com/spantaleev/matrix-docker-ansible-deploy/blob/master/docs/configuring-playbook-client-element.md#themes for more details.
-
-#### If you are a Firefox user
-You can install Radical which is Element bundled as a Firefox add-on. You can edit the `config.json` file right in the add-on preferences. It works really well, you should check it out. https://addons.mozilla.org/en-US/firefox/addon/radical-web/
 
 #### Use my Element Web instance
 Alternatively you can use [my Element Web instance](https://riot.raim.ist) which has all of these themes preinstalled so there is no configuration required.
