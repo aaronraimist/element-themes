@@ -82,7 +82,7 @@ Made by `@me:thomcat.rocks`
 
 ## [Discord Dark Theme](https://raw.githubusercontent.com/aaronraimist/element-themes/master/Discord/Discord-Dark/Discord-Dark-Theme.json)
 
-Made by [`@dylhack:newcircuit.io`](https://github.com/dylhack)
+Made by [`@dylhack:newcircuit.io`](https://github.com/dylhack) and [`@Oha-you`](https://github.com/Oha-you)
 
 ![Discord Dark Theme Screenshot](Discord/Discord-Dark/Discord-Dark-Theme.png)
 
