@@ -8,13 +8,15 @@
 
         "sidebar-color": "#2a2a2a",
         "roomlist-background-color": "#4a4a4a",
-        "roomlist-text-color": "#fff",
-        "roomlist-text-secondary-color": "#ddd",
+        "roomlist-text-color": "#ffffff",
+        "roomlist-text-secondary-color": "#dddddd",
         "roomlist-highlights-color": "#2a2a2a",
         "roomlist-separator-color": "#3a3a3a",
 
         "timeline-background-color": "#3a3a3a",
-        "timeline-text-color": "#eee",
+        "timeline-text-color": "#eeeeee",
+        "secondary-content": "#eeeeee",
+        "tertiary-content": "#eeeeee",
         "timeline-text-secondary-color": "#6da741",
         "timeline-highlights-color": "#bf616a",
         "reaction-row-button-selected-bg-color": "#bf616a"
