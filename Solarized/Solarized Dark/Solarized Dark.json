@@ -12,6 +12,8 @@
         "roomlist-highlights-color": "#586e75",
         "timeline-background-color": "#002b36",
         "timeline-text-color": "#839496",
+        "secondary-content": "#839496",
+        "tertiary-content": "#839496",
         "timeline-text-secondary-color": "#586e75",
         "timeline-highlights-color": "#073642",
         "reaction-row-button-selected-bg-color": "#268bd2"

@@ -15,6 +15,8 @@
 
         "timeline-background-color": "#eceff4",
         "timeline-text-color": "#2e3440",
+        "secondary-content": "#2e3440",
+        "tertiary-content": "#2e3440",
         "timeline-text-secondary-color": "#3b4252",
         "timeline-highlights-color": "#e5e9f0",
         "reaction-row-button-selected-bg-color": "#bf616a"
