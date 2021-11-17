@@ -1,42 +1,25 @@
-# Element Web Themes
-A place to share themes for [Element Web](https://github.com/vector-im/element-web). Element's [theming documentation](https://github.com/vector-im/element-web/blob/master/docs/theming.md) has more information on how these work.
+# Element Themes
 
-These themes are using the relatively basic Element theming system which can only change a limited number of colors. For more advanced themes where you want to customize all the colors or things like fonts and button shapes you'll need to use custom CSS files. See https://github.com/dannycolin/riot-compact for an example of a more advanced theme.
+A place to share themes for [Element Web/Desktop](https://github.com/vector-im/element-web). Themes are currently a beta or "Labs" feature, so you won't be able to use them with every instance of Element. [Read on](#How-to-use-themes) to learn how to use them.
 
-#### Discussions
-Join us in [#element-themes:raim.ist](https://matrix.to/#/#element-themes:raim.ist?via=raim.ist&via=matrix.org&via=newcircuit.io)
-
-### Table of Contents
-- [How to use themes](#how-to-use-themes)
-  * [If you self host Element or use Element Desktop](#if-you-self-host-element-or-use-element-desktop)
-  * [If you use the matrix-docker-ansible-deploy project](#if-you-use-the-matrix-docker-ansible-deploy-project)
-  * [Or use my instance of Element Web](#use-my-element-web-instance)
-- [Themes](#themes)
-  * [Discord Dark Theme](#discord-dark-theme)
-  * [Geeko Dark Theme](#geeko-dark-theme)
-  * [Luxury Dark Theme](#luxury-dark-theme)
-  * [Nord Dark Theme](#nord-dark-theme)
-  * [Nord Light Theme](#nord-light-theme)
-  * [Selenized Black Theme](#selenized-black-theme)
-  * [Selenized Dark Theme](#selenized-dark-theme)
-  * [Selenized Light Theme](#selenized-light-theme)
-  * [Solarized Dark Theme](#solarized-dark-theme)
-  * [ThomCat Black](#thomcat-black)
-  * [Dracula Dark Theme](#dracula-dark-theme)
-  * [Dracula Flat Dark Theme](#dracula-flat-dark-theme)
-- [Advanced](#advanced)
-  * [Workarounds](#workarounds)
-  * [build.py](#build.py)
+To get help or discuss themes, join us in [#element-themes:raim.ist](https://matrix.to/#/#element-themes:raim.ist)
 
 
-### How to use themes
+## How to use themes
 
-There are several different ways to install these themes. For most users it will be easiest to enable the "Support adding custom themes" (`feature_custom_themes`) labs feature. This will allow you to install themes by pasting in the URL to the raw JSON of the theme. Hopefully in the future this interface will be polished up and enabled by default for all users.
+There are several different ways to install these themes.
 
-Some other options for installing themes:
 
-#### If you self host Element or use Element Desktop:
-You can use these themes by editing your `config.json` file to include the theme you want inside of the `settingDefaults` section like this:
+### Use an existing instance of Element which has Labs enabled
+
+If you are using an instances of Element which has Labs features available then you can use these themes. Go to the Labs tab in Settings and turn on "Support adding custom themes". To add a theme, find one below that you would like to try. Then copy the URL to the JSON file that makes up the theme. Go to the Apperance tab in Settings and paste the URL into the "Custom theme URL" field and click "Add theme".
+
+One example of an instance that has Labs enabled is https://develop.element.io however be aware this is a bleeding edge version of Element and you may run into bugs. Most stable instances of Element like https://app.element.io do not have Labs features enabled.
+
+
+### Self host Element or use Element Desktop:
+
+If you are self hosting your own instance of Element or you are using the Desktop app, you can use these themes by editing your `config.json` file. Put the themes you want inside of the `settingDefaults` section like this:
 
 ```json
 {
@@ -60,14 +43,18 @@ You can use these themes by editing your `config.json` file to include the theme
 }
 ```
 
-You will need to enable "Support adding custom themes" in the Labs section of Settings to make these themes appear in the Appearance section of Settings.
+Once you do that, you will need to enable "Support adding custom themes" (`feature_custom_themes`) in the Labs section of Settings so that these themes appear in the Appearance section of Settings.
 
-To setup a `config.json` file with Element Desktop, see https://github.com/vector-im/element-desktop#user-specified-configjson
+To use a custom `config.json` file with Element Desktop, see https://github.com/vector-im/element-desktop#user-specified-configjson
 
-#### If you use the matrix-docker-ansible-deploy project
+
+### If you use the matrix-docker-ansible-deploy project
+
 You can enable all of these themes just by setting `matrix_client_element_themes_enabled: true` in your `vars.yml` file. See https://github.com/spantaleev/matrix-docker-ansible-deploy/blob/master/docs/configuring-playbook-client-element.md#themes for more details.
 
-#### Use my Element Web instance
+
+### Use my Element Web instance
+
 Alternatively you can use [my Element Web instance](https://riot.raim.ist) which has all of these themes preinstalled so there is no configuration required.
 
 
@@ -92,6 +79,7 @@ Made by [`@dylhack:newcircuit.io`](https://github.com/dylhack) and [`@Oha-you`](
 Made by [`@dylhack:newcircuit.io`](https://github.com/dylhack)
 
 ![Luxury Dark Theme Screenshot](./Luxury/Luxury%20Dark/Luxury%20Dark.png)
+
 
 ## [Nord Dark Theme](https://raw.githubusercontent.com/aaronraimist/element-themes/master/Nord/Nord%20Dark/Nord%20Dark.json)
 
@@ -153,7 +141,11 @@ Made by `@jo:catgirl.party`
 
 ![Dracula Flat Dark Theme Screenshot](Dracula/Flat/screenshot%2020-06-16%2003-05-42.png)
 
+
 # Advanced
+
+The themes in this repository use the relatively basic Element theming system which can only change a limited number of colors. Element's [theming documentation](https://github.com/vector-im/element-web/blob/master/docs/theming.md) has more information on how these work. For more advanced themes where you want to customize things like fonts, button shapes, or all of the colors you'll need to use custom CSS files. See https://github.com/dannycolin/riot-compact for an example of a more advanced theme.
+
 
 ## Workarounds
 
@@ -171,6 +163,7 @@ sudo -u <nginx/apache_user> cp /tmp/theme-dark-custom.css /<element_directory>/b
 The results:
 
 ![pill_after](images/Pill2.png)
+
 
 ## build.py
 There is a [build.py](./build.py) python file which takes all the themes and
