@@ -21,6 +21,12 @@
         "tertiary-content": "#dcddde",
         "timeline-text-secondary-color": "#b9bbbe",
         "timeline-highlights-color": "#04040512",
-        "reaction-row-button-selected-bg-color": "#b9bbbe"
+
+        "reaction-row-button-selected-bg-color": "#4752c4",
+        "menu-selected-color": "#4752c4",
+        "focus-bg-color": "#4752c4",
+        "room-highlight-color": "#4752c4",
+        "other-user-pill-bg-color": "#4752c4",
+        "togglesw-off-color": "#72767d"
     }
 }
