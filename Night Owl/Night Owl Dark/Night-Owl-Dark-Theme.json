@@ -2,8 +2,8 @@
     "name": "Night Owl Dark",
     "is_dark": true,
     "colors": {
-        "accent-color": "#122d42",
-        "accent": "#122d42",
+        "accent-color": "#d6deeb",
+        "accent": "#d6deeb",
         "primary-color": "#011627",
         "warning-color": "#b39554",
         "alert": "#ef5350f2",
