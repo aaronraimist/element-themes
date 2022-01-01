@@ -1,32 +1,32 @@
 {
-    "name": "Night Owl Dark",
+    "name": "Night Owl",
     "is_dark": true,
     "colors": {
-        "accent-color": "#d6deeb",
-        "accent": "#d6deeb",
-        "primary-color": "#011627",
+        "accent-color": "#122d42",
+        "accent": "#122d42",
+        "primary-color": "#122d42",
         "warning-color": "#b39554",
-        "alert": "#ef5350f2",
+        "alert": "#b39554",
 
         "sidebar-color": "#011627",
         "roomlist-background-color": "#011627",
-        "roomlist-text-color": "#89a4bb",
+        "roomlist-text-color": "#5f7e97",
         "roomlist-text-secondary-color": "#5f7e97",
         "roomlist-highlights-color": "#1085bb5d",
         "roomlist-separator-color": "#5f7e97",
 
         "timeline-background-color": "#011627",
-        "timeline-text-color": "#d6deeb",
-        "secondary-content": "#7e57c2",
-        "tertiary-content": "#1d3b53",
-        "timeline-text-secondary-color": "#c5e4fd",
-        "timeline-highlights-color": "#04040512",
+        "timeline-text-color": "#5f7e97",
+        "secondary-content": "#5f7e97",
+        "tertiary-content": "#5f7e97",
+        "timeline-text-secondary-color": "#d6deeb",
+        "timeline-highlights-color": "#5F7E9779",
 
-        "reaction-row-button-selected-bg-color": "#2e3250",
-        "menu-selected-color": "#1d3b53",
-        "focus-bg-color": "#010d18",
-        "room-highlight-color": "#5f7e9779",
-        "other-user-pill-bg-color": "#1d3b53",
-        "togglesw-off-color": "#010E1A"
+        "reaction-row-button-selected-bg-color": "#7e57c25a",
+        "menu-selected-color": "#234d708c",
+        "focus-bg-color": "#234d708c",
+        "room-highlight-color": "#234d708c",
+        "other-user-pill-bg-color": "#234d708c",
+        "togglesw-off-color": "#010b14"
     }
 }
