@@ -85,7 +85,7 @@ Made by [`@dylhack:newcircuit.io`](https://github.com/dylhack)
 
 Made by [`@foxy:teapot.ovh`](https:github.com/foxyseta)
 
-![Night Owl Dark Theme Screenshot](Night%20Owl/Night%20Owl%20Dark/Night%20Owl%20Dark.png)
+![Night Owl Dark Theme Screenshot](Night%20Owl/Night%20Owl%20Dark/Night-Owl-Dark-Theme.png)
 
 
 ## [Nord Dark Theme](https://raw.githubusercontent.com/aaronraimist/element-themes/master/Nord/Nord%20Dark/Nord%20Dark.json)
