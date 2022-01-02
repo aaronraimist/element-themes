@@ -81,7 +81,7 @@ Made by [`@dylhack:newcircuit.io`](https://github.com/dylhack)
 ![Luxury Dark Theme Screenshot](./Luxury/Luxury%20Dark/Luxury%20Dark.png)
 
 
-## [Night Owl Dark Theme](https://raw.githubusercontent.com/aaronraimist/element-themes/master/Night%20Owl/Night%20Owl%20Dark/Nord%20Owl%20Dark.json
+## [Night Owl Dark Theme](https://raw.githubusercontent.com/aaronraimist/element-themes/master/Night%20Owl/Night%20Owl%20Dark/Nord%20Owl%20Dark.json)
 
 Made by [`@foxy:teapot.ovh`](https:github.com/foxyseta)
 
