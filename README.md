@@ -148,6 +148,11 @@ Made by `@jo:catgirl.party`
 
 ![Dracula Flat Dark Theme Screenshot](Dracula/Flat/screenshot%2020-06-16%2003-05-42.png)
 
+## [Everforest Dark Hard Theme](https://raw.githubusercontent.com/iambeingtracked/element-themes/master/Everforest%20Dark%20Hard/everforest-dark-hard.json)
+
+Made by `@maksim:wherelinux.xyz`
+
+![Everforest Dark Hard Theme Screenshot](https://github.com/iambeingtracked/element-themes/blob/master/Everforest%20Dark%20Hard/everforest-dark-hard.png)
 
 # Advanced
 
