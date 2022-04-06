@@ -154,6 +154,13 @@ Made by `@maksim:wherelinux.xyz`
 
 ![Everforest Dark Hard Theme Screenshot](https://github.com/iambeingtracked/element-themes/blob/master/Everforest%20Dark%20Hard/everforest-dark-hard.png)
 
+## [Wal Theme](https://github.com/acxz/element-wal)
+
+A theme that autogenerates colors based on your wallpaper.
+Made by `@acxz:matrix.org`
+
+![Wal Theme Screenshot](https://user-images.githubusercontent.com/17132214/162074643-a5dbca97-b6c3-4cf6-90c6-b1a6d244c72e.png)
+
 # Advanced
 
 The themes in this repository use Element's relatively basic theming system which can only change a limited number of colors. Element's [theming documentation](https://github.com/vector-im/element-web/blob/master/docs/theming.md) has more information on how these work. For more advanced themes where you want to customize things like fonts, button shapes, or all of the colors you'll need to use CSS which isn't supported by Element's theming system. To use CSS based themes you could use a browser extension like Stylus. https://github.com/dannycolin/riot-compact is an example of a more advanced theme.
