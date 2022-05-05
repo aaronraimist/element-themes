@@ -152,7 +152,7 @@ Made by `@jo:catgirl.party`
 
 Made by `@maksim:wherelinux.xyz`
 
-![Everforest Dark Hard Theme Screenshot](https://github.com/iambeingtracked/element-themes/blob/master/Everforest%20Dark%20Hard/everforest-dark-hard.png)
+![Everforest Dark Hard Theme Screenshot](https://user-images.githubusercontent.com/94642304/160867099-a668e6a9-9e3a-4c4f-84e9-a73e119144e7.png)
 
 ## [Wal Theme](https://github.com/acxz/element-wal)
 
