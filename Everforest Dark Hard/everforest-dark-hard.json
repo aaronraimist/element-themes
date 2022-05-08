@@ -1,23 +1,23 @@
 {
-		"name": "Everforest dark hard",
-		"is_dark": true,
-        "colors": {
-          "accent-color": "#a7c080",
-		  "primary-color": "#a7c080",
-          "warning-color": "#e67e80",
-  	      "sidebar-color": "#323d43",
-  	      "roomlist-background-color": "#2f383e",
-  	      "roomlist-text-color": "#d3c6aa",
-  	      "roomlist-text-secondary-color": "#d3c6aa",
-  	      "roomlist-highlights-color": "#4b565c",
-  	      "roomlist-separator-color": "#4b565c",
-  	      "timeline-background-color": "#2b3339",
-  	      "timeline-text-color": "#d3c6aa",
-		  "secondary-content": "#d3c6aa",
-		  "tertiary-content": "#d3c6aa",
-		  "timeline-text-secondary-color": "#a7c080",
-		  "timeline-highlights-color": "#4b565c",
-   		  "reaction-row-button-selected-bg-color": "#4b565c"
-		}
+	"name": "Everforest dark hard",
+	"is_dark": true,
+	"colors": {
+		"accent-color": "#a7c080",
+		"primary-color": "#a7c080",
+		"warning-color": "#e67e80",
+		"sidebar-color": "#323d43",
+		"roomlist-background-color": "#2f383e",
+		"roomlist-text-color": "#d3c6aa",
+		"roomlist-text-secondary-color": "#d3c6aa",
+		"roomlist-highlights-color": "#4b565c",
+		"roomlist-separator-color": "#4b565c",
+		"timeline-background-color": "#2b3339",
+		"timeline-text-color": "#d3c6aa",
+		"secondary-content": "#d3c6aa",
+		"tertiary-content": "#d3c6aa",
+		"timeline-text-secondary-color": "#a7c080",
+		"timeline-highlights-color": "#4b565c",
+		"reaction-row-button-selected-bg-color": "#4b565c"
+	}
 }
 
