@@ -134,7 +134,7 @@ Made by `@jasonic5:matrix.org`
 
 Made by [`Marius`](https://github.com/marius)
 
-![Solarized Light Theme Screenshot](Solarized/Solarized%20Dark/Solarized%20Light.png)
+![Solarized Light Theme Screenshot](Solarized/Solarized%20Light/Solarized%20Light.png)
 
 
 ## [Geeko Dark Theme](https://raw.githubusercontent.com/aaronraimist/element-themes/master/Geeko%20Dark/Geeko%20Dark.json)
