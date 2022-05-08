@@ -1,0 +1,21 @@
+{
+    "name": "Solarized Light",
+    "is_dark": false,
+    "colors": {
+        "accent-color": "#b58900",
+        "primary-color": "#268bd2",
+        "warning-color": "#dc322f",
+        "sidebar-color": "#fdf6e3",
+        "roomlist-background-color": "#eee8d5",
+        "roomlist-text-color": "#657b83",
+        "roomlist-text-secondary-color": "#586e75",
+        "roomlist-highlights-color": "#93a1a1",
+        "timeline-background-color": "#fdf6e3",
+        "timeline-text-color": "#657b83",
+        "secondary-content": "#657b83",
+        "tertiary-content": "#657b83",
+        "timeline-text-secondary-color": "#93a1a1",
+        "timeline-highlights-color": "#eee8d5",
+        "reaction-row-button-selected-bg-color": "#268bd2"
+    }
+}

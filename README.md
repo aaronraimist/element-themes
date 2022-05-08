@@ -130,6 +130,13 @@ Made by `@jasonic5:matrix.org`
 ![Solarized Dark Theme Screenshot](Solarized/Solarized%20Dark/Solarized%20Dark.png)
 
 
+## [Solarized Light Theme](https://raw.githubusercontent.com/aaronraimist/element-themes/master/Solarized/Solarized%20Light/Solarized%20Light.json)
+
+Made by [`Marius`](https://github.com/marius)
+
+![Solarized Light Theme Screenshot](Solarized/Solarized%20Dark/Solarized%20Light.png)
+
+
 ## [Geeko Dark Theme](https://raw.githubusercontent.com/aaronraimist/element-themes/master/Geeko%20Dark/Geeko%20Dark.json)
 
 Made by `@swedneck:feneas.org`
