@@ -39,7 +39,7 @@ If you are self hosting your own instance of Element or you are using the Deskto
             }
         ]
     },
-    "showLabsSettings": true
+    "show_labs_settings": true
 }
 ```
 
