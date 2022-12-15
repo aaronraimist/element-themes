@@ -1,0 +1,39 @@
+{
+	"name": "Gruvbox Light",
+	"is_dark": false,
+	"colors": {
+		"accent-color": "#cc241d",
+		"primary-color": "#af3a03",
+		"warning-color": "#9d0006",
+		"sidebar-color": "#fbf1c7",
+		"roomlist-background-color": "#f9f5d7",
+		"roomlist-text-color": "#7c6f64",
+		"roomlist-text-secondary-color": "#504945",
+		"roomlist-highlights-color": "#ebdbb2",
+		"roomlist-separator-color": "#d5c4a1",
+		"timeline-background-color": "#fbf1c7",
+		"timeline-text-color": "#3c3836",
+		"secondary-content": "#928374",
+		"tertiary-content": "#928374",
+		"quinary-content": "#d5c4a1",
+		"timeline-text-secondary-color": "#7c6f64",
+		"timeline-highlights-color": "#00000030",
+		"reaction-row-button-selected-bg-color": "#689d6a",
+		"menu-selected-color": "#d5c4a1",
+		"icon-button-color": "#928374",
+		"accent": "#689d6a",
+		"alert": "#cc241d",
+		"system": "#fbf1c7",
+		"username-colors": [
+			"#cc241d",
+			"#98971a",
+			"#d79921",
+			"#458588",
+			"#b16286",
+			"#689d6a",
+			"#a89984",
+			"#d65d0e"
+		],
+		"avatar-background-colors": ["#458588", "#b16286", "#689d6a"]
+	}
+}
