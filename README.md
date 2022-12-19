@@ -174,7 +174,7 @@ Made by [Jeroen van Meerendonk](https://github.com/jeroenwtf)
 
 ![Gruvbox Theme Screenshot](Gruvbox/Gruvbox%20Dark/Gruvbox%20Dark.png)
 
-## [Gruvbox Light Theme](Gruvbox/Gruvbox%20Light/Gruvbox%20Light.json)
+## [Gruvbox Light Theme](https://raw.githubusercontent.com/aaronraimist/element-themes/master/Gruvbox/Gruvbox%20Light/Gruvbox%20Light.json)
 
 Made by `@joel:thebeckmeyers.xyz`
 
