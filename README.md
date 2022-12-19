@@ -168,11 +168,17 @@ Made by `@acxz:matrix.org`
 
 ![Wal Theme Screenshot](https://user-images.githubusercontent.com/17132214/162074643-a5dbca97-b6c3-4cf6-90c6-b1a6d244c72e.png)
 
-## [Gruvbox Theme](Gruvbox/Gruvbox.json)
+## [Gruvbox Dark Theme](https://raw.githubusercontent.com/aaronraimist/element-themes/master/Gruvbox/Gruvbox%20Dark/Gruvbox%20Dark.json)
 
 Made by [Jeroen van Meerendonk](https://github.com/jeroenwtf)
 
-![Gruvbox Theme Screenshot](Gruvbox/Gruvbox.png)
+![Gruvbox Theme Screenshot](Gruvbox/Gruvbox%20Dark/Gruvbox%20Dark.png)
+
+## [Gruvbox Light Theme](https://raw.githubusercontent.com/aaronraimist/element-themes/master/Gruvbox/Gruvbox%20Light/Gruvbox%20Light.json)
+
+Made by `@joel:thebeckmeyers.xyz`
+
+![Gruvbox Light Theme Screenshot](Gruvbox/Gruvbox%20Light/Gruvbox%20Light.png)
 
 # Advanced
 
