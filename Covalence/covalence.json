@@ -1,0 +1,32 @@
+{
+  "name": "Covalence",
+  "is_dark": true,
+  "colors": {
+    "accent-color": "#25863c",
+    "primary-color": "#4695f7",
+    "warning-color": "#ed4a46",
+    "sidebar-color": "#161b22",
+    "roomlist-background-color": "#0d1117",
+    "roomlist-text-color": "#c9d1d9",
+    "roomlist-text-secondary-color": "#b9b9b9",
+    "roomlist-highlights-color": "#161b22",
+    "roomlist-separator-color": "#21262d",
+    "timeline-background-color": "#0d1117",
+    "timeline-text-color": "#c9d1d9",
+    "secondary-content": "#c9d1d9",
+    "tertiary-content": "#c9d1d9",
+    "timeline-text-secondary-color": "#8b949e",
+    "timeline-highlights-color": "#252525",
+    "reaction-row-button-selected-bg-color": "#132338",
+    "username-colors": [
+      "#f85149",
+      "#d29922",
+      "#42b958",
+      "#58a6fc",
+      "#a271f3",
+      "#f9524a",
+      "#43ba59",
+      "#a372f4"
+    ]
+  }
+}

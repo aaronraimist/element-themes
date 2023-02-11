@@ -180,6 +180,12 @@ Made by `@joel:thebeckmeyers.xyz`
 
 ![Gruvbox Light Theme Screenshot](Gruvbox/Gruvbox%20Light/Gruvbox%20Light.png)
 
+## [Covalence Dark Theme](Covalence/covalence.json?raw=1)
+
+Made by `@mnesia:matrix.org`
+
+![Covalence Dark Theme Screenshot](https://user-images.githubusercontent.com/123417798/218235744-149e276f-9bc9-4446-9b5c-52e60bcff7bd.png)
+
 # Advanced
 
 The themes in this repository use Element's relatively basic theming system which can only change a limited number of colors. Element's [theming documentation](https://github.com/vector-im/element-web/blob/master/docs/theming.md) has more information on how these work. For more advanced themes where you want to customize things like fonts, button shapes, or all of the colors you'll need to use CSS which isn't supported by Element's theming system. To use CSS based themes you could use a browser extension like Stylus. https://github.com/dannycolin/riot-compact is an example of a more advanced theme.
