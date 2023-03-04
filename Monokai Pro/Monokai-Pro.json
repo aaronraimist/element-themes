@@ -1,0 +1,38 @@
+{
+  "name": "Monokai Pro",
+  "is_dark": true,
+  "colors": {
+    "accent-color": "#fff1f3",
+    "primary-color": "#f38d70",
+    "warning-color": "#fd6883",
+    "sidebar-color": "#2d2a2e",
+    "roomlist-background-color": "#221f22",
+    "roomlist-text-color": "#fff1ff",
+    "roomlist-text-secondary-color": "#f9cc6c",
+    "roomlist-highlights-color": "#3b394a",
+    "roomlist-separator-color": "#2D2a2e",
+    "timeline-background-color": "#2D2a2e",
+    "timeline-text-color": "#fff1ff",
+    "secondary-content": "#fff1f3",
+    "tertiary-content": "#fff1f3",
+    "quinary-content": "#221f22",
+    "timeline-text-secondary-color": "#fff1ff",
+    "timeline-highlights-color": "#00000030",
+    "reaction-row-button-selected-bg-color": "#adda78",
+    "menu-selected-color": "#f9cc6c",
+    "icon-button-color": "#f9cc6c",
+    "accent": "#fd6883",
+    "alert": "#fd6883",
+    "username-colors": [
+      "#cc241d",
+      "#689d6a",
+      "#f9cc6c",
+      "#b16286",
+      "#85dacc",
+      "#adda78",
+      "#a89984",
+      "#f38d70"
+    ],
+    "avatar-background-colors": ["#458588", "#b16286", "#adda78"]
+  }
+}
