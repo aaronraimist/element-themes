@@ -190,7 +190,7 @@ Made by `@mnesia:matrix.org`
 
 Made by `@ordo:mushrooms.dev`
 
-![Monokai Pro Theme Screenshot])(Monokai%20Pro/Monokai-Pro.png)
+![Monokai Pro Theme Screenshot](Monokai%20Pro/Monokai-Pro.png)
 
 # Advanced
 
