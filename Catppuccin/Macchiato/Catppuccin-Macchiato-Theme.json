@@ -1,0 +1,43 @@
+{
+  "name": "Catppuccin Macchiato",
+  "is_dark": true,
+  "colors": {
+    "accent-color": "#b7bdf8",
+    "primary-color": "#b7bdf8",
+    "warning-color": "#ed8796",
+    "alert": "#eed49f",
+    "sidebar-color": "#181926",
+    "roomlist-background-color": "#1e2030",
+    "roomlist-text-color": "#cad3f5",
+    "roomlist-text-secondary-color": "#24273a",
+    "roomlist-highlights-color": "#494d64",
+    "roomlist-separator-color": "#8087a2",
+    "timeline-background-color": "#24273a",
+    "timeline-text-color": "#cad3f5",
+    "secondary-content": "#cad3f5",
+    "tertiary-content": "#cad3f5",
+    "timeline-text-secondary-color": "#a5adcb",
+    "timeline-highlights-color": "#1e2030",
+    "reaction-row-button-selected-bg-color": "#494d64",
+    "menu-selected-color": "#494d64",
+    "focus-bg-color": "#5b6078",
+    "room-highlight-color": "#91d7e3",
+    "togglesw-off-color": "#939ab7",
+    "other-user-pill-bg-color": "#91d7e3",
+    "username-colors": [
+      "#c6a0f6",
+      "#ee99a0",
+      "#f5a97f",
+      "#a6da95",
+      "#8bd5ca",
+      "#91d7e3",
+      "#7dc4e4",
+      "#b7bdf8"
+    ],
+    "avatar-background-colors": [
+      "#8aadf4",
+      "#c6a0f6",
+      "#a6da95"
+    ]
+  }
+}
