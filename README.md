@@ -1,4 +1,4 @@
-[# Element Themes
+# Element Themes
 
 A place to share themes for [Element Web/Desktop](https://github.com/vector-im/element-web). Themes are currently a beta or "Labs" feature, so you won't be able to use them with every instance of Element. [Read on](#How-to-use-themes) to learn how to use them.
 
