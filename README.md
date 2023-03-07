@@ -192,25 +192,25 @@ Made by `@ordo:mushrooms.dev`
 
 ![Monokai Pro Theme Screenshot](Monokai%20Pro/Monokai-Pro.png)
 
-## [Catppuccin Latte](Catppuccin/Latte/Cattpuccin-Latte-Theme.json?raw=1)
+## [Catppuccin Latte](Catppuccin/Latte/Catppuccin-Latte-Theme.json?raw=1)
 
 Made by [@ghostx31](https://github.com/ghostx31) / Ported by [@jordandrako](https://github.com/jordandrako)
 
 ![Catppuccin-Latte-Theme](https://user-images.githubusercontent.com/7110658/223290983-8e65b614-8440-4d6d-a760-89efc4295ab9.png)
 
-## [Catppuccin Frappe](Catppuccin/Frappe/Cattpuccin-Frappe-Theme.json?raw=1)
+## [Catppuccin Frappe](Catppuccin/Frappe/Catppuccin-Frappe-Theme.json?raw=1)
 
 Made by [@ghostx31](https://github.com/ghostx31) / Ported by [@jordandrako](https://github.com/jordandrako)
 
 ![Catppuccin-Frappe-Theme](https://user-images.githubusercontent.com/7110658/223290293-a09c1af7-63fd-42ff-895c-bcdc2f67dcec.png)
 
-## [Catppuccin Macchiato](Catppuccin/Macchiato/Cattpuccin-Macchiato-Theme.json?raw=1)
+## [Catppuccin Macchiato](Catppuccin/Macchiato/Catppuccin-Macchiato-Theme.json?raw=1)
 
 Made by [@ghostx31](https://github.com/ghostx31) / Ported by [@jordandrako](https://github.com/jordandrako)
 
 ![Catppuccin-Macchiato-Theme](https://user-images.githubusercontent.com/7110658/223291065-57b1d22c-a080-4ffd-bded-24ebaef2e65f.png)
 
-## [Catppuccin Mocha](Catppuccin/Mocha/Cattpuccin-Mocha-Theme.json?raw=1)
+## [Catppuccin Mocha](Catppuccin/Mocha/Catppuccin-Mocha-Theme.json?raw=1)
 
 Made by [@ghostx31](https://github.com/ghostx31) / Ported by [@jordandrako](https://github.com/jordandrako)
 
