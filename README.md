@@ -192,6 +192,30 @@ Made by `@ordo:mushrooms.dev`
 
 ![Monokai Pro Theme Screenshot](Monokai%20Pro/Monokai-Pro.png)
 
+## [Catppuccin Latte](Catppuccin/Latte/Cattpuccin-Latte-Theme.json?raw=1)
+
+Made by [@ghostx31](https://github.com/ghostx31) / Ported by [@jordandrako](https://github.com/jordandrako)
+
+![Catppuccin-Latte-Theme](https://user-images.githubusercontent.com/7110658/223290983-8e65b614-8440-4d6d-a760-89efc4295ab9.png)
+
+## [Catppuccin Frappe](Catppuccin/Frappe/Cattpuccin-Frappe-Theme.json?raw=1)
+
+Made by [@ghostx31](https://github.com/ghostx31) / Ported by [@jordandrako](https://github.com/jordandrako)
+
+![Catppuccin-Frappe-Theme](https://user-images.githubusercontent.com/7110658/223290293-a09c1af7-63fd-42ff-895c-bcdc2f67dcec.png)
+
+## [Catppuccin Macchiato](Catppuccin/Macchiato/Cattpuccin-Macchiato-Theme.json?raw=1)
+
+Made by [@ghostx31](https://github.com/ghostx31) / Ported by [@jordandrako](https://github.com/jordandrako)
+
+![Catppuccin-Macchiato-Theme](https://user-images.githubusercontent.com/7110658/223291065-57b1d22c-a080-4ffd-bded-24ebaef2e65f.png)
+
+## [Catppuccin Mocha](Catppuccin/Mocha/Cattpuccin-Mocha-Theme.json?raw=1)
+
+Made by [@ghostx31](https://github.com/ghostx31) / Ported by [@jordandrako](https://github.com/jordandrako)
+
+![Catppuccin-Mocha-Theme](https://user-images.githubusercontent.com/7110658/223291136-bbb47642-8bb9-4200-b635-1705a5405018.png)
+
 # Advanced
 
 The themes in this repository use Element's relatively basic theming system which can only change a limited number of colors. Element's [theming documentation](https://github.com/vector-im/element-web/blob/master/docs/theming.md) has more information on how these work. For more advanced themes where you want to customize things like fonts, button shapes, or all of the colors you'll need to use CSS which isn't supported by Element's theming system. To use CSS based themes you could use a browser extension like Stylus. https://github.com/dannycolin/riot-compact is an example of a more advanced theme.
@@ -218,3 +242,4 @@ The results:
 ## build.py
 There is a [build.py](./build.py) python file which takes all the themes and
 outputs it to a file as an array of JSON. Simply execute it in this directory.
+](https://github.com/jordandrako/element-themes/edit/catppuccin/README.md)
