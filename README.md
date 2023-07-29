@@ -74,7 +74,7 @@ Made by [`@dylhack:minds.com`](https://github.com/dylhack) and [`@Oha-you`](http
 ![Discord Dark Theme Screenshot](Discord/Discord-Dark/Discord-Dark-Theme.png)
 
 
-## [Discord Black Theme](https://raw.githubusercontent.com/aaronraimist/element-themes/master/Discord/Discord-Dark/Discord-Black-Theme.json)
+## [Discord Black Theme](https://raw.githubusercontent.com/aaronraimist/element-themes/master/Discord/Discord-Black/Discord-Black-Theme.json)
 
 Made by [`@dylhack:minds.com`](https://github.com/dylhack), [`@Oha-you`](https://github.com/Oha-you) and [`@zhunynho`](https://github.com/zhunynho)
 
