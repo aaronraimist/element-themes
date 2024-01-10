@@ -46,10 +46,10 @@ if __name__ == '__main__':
 					if file.lower().endswith(".json"):
 						json_paths.append(current_path)
 						print(f"Added {file}")
-						
-			elif deep.lower().endswith(".json"):
-				json_paths.append(current_path)
-				print(f"Added {file}")
+
+					elif deep.lower().endswith(".json"):
+						json_paths.append(current_path)
+						print(f"Added {file}")
 
 	# 2. Now let's parse all the JSON files
 	for json_path in json_paths:
