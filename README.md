@@ -19,11 +19,11 @@ One example of an instance that has Labs enabled is https://develop.element.io h
 
 ### Self host Element or use Element Desktop:
 
-If you are self hosting your own instance of Element or you are using the Desktop app, you can use these themes by editing your `config.json` file. Put the themes you want inside of the `settingDefaults` section like this:
+If you are self hosting your own instance of Element or you are using the Desktop app, you can use these themes by editing your `config.json` file. Put the themes you want inside of the `setting_defaults` section like this:
 
 ```json
 {
-    "settingDefaults": {
+    "setting_defaults": {
         "custom_themes": [
             {
                 "name": "Example theme",
