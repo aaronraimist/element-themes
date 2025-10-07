@@ -1,24 +1,43 @@
 {
-    "name": "Nord dark theme",
-    "is_dark": true,
-    "colors": {
-        "accent-color": "#a3be8c",
-        "primary-color": "#88c0d0",
-        "warning-color": "#bf616a",
-
-        "sidebar-color": "#2e3440",
-        "roomlist-background-color": "#3b4252",
-        "roomlist-text-color": "#ebcb8b",
-        "roomlist-text-secondary-color": "#e5e9f0",
-        "roomlist-highlights-color": "#2e3440",
-        "roomlist-separator-color": "#434c5e",
-
-        "timeline-background-color": "#434c5e",
-        "timeline-text-color": "#eceff4",
-        "secondary-content": "#eceff4",
-        "tertiary-content": "#eceff4",
-        "timeline-text-secondary-color": "#81a1c1",
-        "timeline-highlights-color": "#3b4252",
-        "reaction-row-button-selected-bg-color": "#bf616a"
-    }
+  "name": "Nord dark theme",
+  "is_dark": true,
+  "colors": {
+    "accent-color": "#a3be8c",
+    "primary-color": "#88c0d0",
+    "warning-color": "#bf616a",
+    "sidebar-color": "#2e3440",
+    "roomlist-background-color": "#3b4252",
+    "roomlist-text-color": "#ebcb8b",
+    "roomlist-text-secondary-color": "#e5e9f0",
+    "roomlist-highlights-color": "#2e3440",
+    "roomlist-separator-color": "#434c5e",
+    "timeline-background-color": "#434c5e",
+    "timeline-text-color": "#eceff4",
+    "secondary-content": "#eceff4",
+    "tertiary-content": "#eceff4",
+    "timeline-text-secondary-color": "#81a1c1",
+    "timeline-highlights-color": "#3b4252",
+    "reaction-row-button-selected-bg-color": "#bf616a"
+  },
+  "compound": {
+    "--cpd-color-theme-bg": "#2e3440",
+    "--cpd-color-bg-canvas-default": "#434c5e",
+    "--cpd-color-bg-subtle-secondary": "#2e3440",
+    "--cpd-color-bg-subtle-primary": "#3b4252",
+    "--cpd-color-bg-action-primary-rest": "#88c0d0",
+    "--cpd-color-bg-critical-primary": "#bf616a",
+    "--cpd-color-bg-accent-rest": "#a3be8c",
+    "--cpd-color-text-primary": "#eceff4",
+    "--cpd-color-text-secondary": "#81a1c1",
+    "--cpd-color-text-action-accent": "#88c0d0",
+    "--cpd-color-text-critical-primary": "#bf616a",
+    "--cpd-color-text-success-primary": "#a3be8c",
+    "--cpd-color-icon-primary": "#eceff4",
+    "--cpd-color-icon-secondary": "#81a1c1",
+    "--cpd-color-icon-tertiary": "#e5e9f0",
+    "--cpd-color-icon-accent-tertiary": "#a3be8c",
+    "--cpd-color-border-interactive-primary": "#434c5e",
+    "--cpd-color-border-critical-primary": "#bf616a",
+    "--cpd-color-border-success-subtle": "#a3be8c"
+  }
 }
