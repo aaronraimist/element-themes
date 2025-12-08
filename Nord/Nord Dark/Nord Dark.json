@@ -27,6 +27,7 @@
     "--cpd-color-bg-action-primary-rest": "#88c0d0",
     "--cpd-color-bg-critical-primary": "#bf616a",
     "--cpd-color-bg-accent-rest": "#a3be8c",
+    "--cpd-color-bg-action-secondary-rest": "434c5e",
     "--cpd-color-text-primary": "#eceff4",
     "--cpd-color-text-secondary": "#81a1c1",
     "--cpd-color-text-action-accent": "#88c0d0",
