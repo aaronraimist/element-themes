@@ -1,6 +1,33 @@
 {
   "name": "Catppuccin Latte",
   "is_dark": false,
+  "compound": {
+    "--cpd-color-bg-accent-rest": "#7287fd",
+    "--cpd-color-text-success-primary": "#7287fd",
+    "--cpd-color-icon-accent-tertiary": "#7287fd",
+    "--cpd-color-border-success-subtle": "#7287fd",
+    "--cpd-color-bg-action-primary-rest": "#7287fd",
+    "--cpd-color-icon-accent-primary": "#7287fd",
+    "--cpd-color-text-action-accent": "#7287fd",
+    "--cpd-color-bg-critical-primary": "#d20f39",
+    "--cpd-color-text-critical-primary": "#d20f39",
+    "--cpd-color-border-critical-primary": "#d20f39",
+    "--cpd-color-theme-bg": "#dce0e8",
+    "--cpd-color-bg-action-secondary-rest": "#e6e9ef",
+    "--cpd-color-bg-subtle-secondary": "#bcc0cc",
+    "--cpd-color-bg-subtle-primary": "#e6e9ef",
+    "--cpd-color-bg-canvas-default": "#e6e9ef",
+    "--cpd-color-icon-primary": "#4c4f69",
+    "--cpd-color-text-primary": "#4c4f69",
+    "--cpd-color-text-secondary": "#6c6f85",
+    "--cpd-color-icon-secondary": "#6c6f85",
+    "--cpd-color-text-decorative-1": "#8839ef",
+    "--cpd-color-text-decorative-2": "#e64553",
+    "--cpd-color-text-decorative-3": "#fe640b",
+    "--cpd-color-text-decorative-4": "#40a02b",
+    "--cpd-color-text-decorative-5": "#179299",
+    "--cpd-color-text-decorative-6": "#04a5e5"
+  },
   "colors": {
     "accent-color": "#7287fd",
     "primary-color": "#7287fd",
@@ -39,5 +66,9 @@
       "#8839ef",
       "#40a02b"
     ]
+  },
+  "fonts": {
+    "monospace": "Inter, Twemoji, \"Inter Fallback: Helvetica Neue\",\"Inter Fallback: Segoe UI\",\"Inter Fallback: Roboto\",\"Inter Fallback: Ubuntu\",\"Inter Fallback: Fira Sans\",\"Inter Fallback: Noto Sans\",\"Inter Fallback: Arial\",\"Helvetica Neue\",\"Segoe UI\",Roboto,Ubuntu,\"Fira Sans\",\"Noto Sans\",Arial,sans-serif",
+    "general": "Inter, Twemoji, \"Inter Fallback: Helvetica Neue\",\"Inter Fallback: Segoe UI\",\"Inter Fallback: Roboto\",\"Inter Fallback: Ubuntu\",\"Inter Fallback: Fira Sans\",\"Inter Fallback: Noto Sans\",\"Inter Fallback: Arial\",\"Helvetica Neue\",\"Segoe UI\",Roboto,Ubuntu,\"Fira Sans\",\"Noto Sans\",Arial,sans-serif"
   }
 }
