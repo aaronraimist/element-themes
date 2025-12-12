@@ -2,14 +2,14 @@
   "name": "Catppuccin Macchiato",
   "is_dark": true,
   "compound": {
-    "--cpd-color-icon-success-primary": "#cad3f5",
+    "--cpd-color-icon-success-primary": "#494d64",
     "--cpd-color-icon-critical-primary": "#ed8796",
-    "--cpd-color-text-on-solid-primary": "#181926",
+    "--cpd-color-text-on-solid-primary": "#b7bdf8",
     "--cpd-color-bg-accent-rest": "#b7bdf8",
     "--cpd-color-text-success-primary": "#b7bdf8",
     "--cpd-color-icon-accent-tertiary": "#b7bdf8",
     "--cpd-color-border-success-subtle": "#b7bdf8",
-    "--cpd-color-bg-action-primary-rest": "#b7bdf8",
+    "--cpd-color-bg-action-primary-rest": "#1e2030",
     "--cpd-color-text-action-accent": "#b7bdf8",
     "--cpd-color-icon-accent-primary": "#b7bdf8",
     "--cpd-color-bg-critical-primary": "#ed8796",
@@ -32,6 +32,10 @@
     "--cpd-color-text-decorative-6": "#91d7e3"
   },
   "colors": {
+    "eventbubble-self-bg": "#1e2030",
+    "eventbubble-bg-hover": "#494d64",
+    "cpd-color-gray-200": "#494d64",
+    "cpd-color-alpha-gray-1400": "#494d64",
     "accent-color": "#b7bdf8",
     "primary-color": "#b7bdf8",
     "warning-color": "#ed8796",

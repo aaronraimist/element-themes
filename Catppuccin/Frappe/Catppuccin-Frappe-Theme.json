@@ -2,14 +2,14 @@
   "name": "Catppuccin Frappe",
   "is_dark": true,
   "compound": {
-    "--cpd-color-icon-success-primary": "#c6d0f5",
+    "--cpd-color-icon-success-primary": "#51576d",
     "--cpd-color-icon-critical-primary": "#e78284",
-    "--cpd-color-text-on-solid-primary": "#232634",
+    "--cpd-color-text-on-solid-primary": "#babbf1",
     "--cpd-color-bg-accent-rest": "#babbf1",
     "--cpd-color-text-success-primary": "#babbf1",
     "--cpd-color-icon-accent-tertiary": "#babbf1",
     "--cpd-color-border-success-subtle": "#babbf1",
-    "--cpd-color-bg-action-primary-rest": "#babbf1",
+    "--cpd-color-bg-action-primary-rest": "#292c3c",
     "--cpd-color-text-action-accent": "#babbf1",
     "--cpd-color-icon-accent-primary": "#babbf1",
     "--cpd-color-bg-critical-primary": "#e78284",
@@ -32,6 +32,10 @@
     "--cpd-color-text-decorative-6": "#99d1db"
   },
   "colors": {
+    "eventbubble-self-bg": "#292c3c",
+    "eventbubble-bg-hover": "#51576d",
+    "cpd-color-gray-200": "#51576d",
+    "cpd-color-alpha-gray-1400": "#51576d",
     "accent-color": "#babbf1",
     "primary-color": "#babbf1",
     "warning-color": "#e78284",

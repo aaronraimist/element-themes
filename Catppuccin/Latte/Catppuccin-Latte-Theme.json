@@ -2,14 +2,14 @@
   "name": "Catppuccin Latte",
   "is_dark": false,
   "compound": {
-    "--cpd-color-icon-success-primary": "#6c6f85",
+    "--cpd-color-icon-success-primary": "#bcc0cc",
     "--cpd-color-icon-critical-primary": "#d20f39",
-    "--cpd-color-text-on-solid-primary": "#dce0e8",
+    "--cpd-color-text-on-solid-primary": "#7287fd",
     "--cpd-color-bg-accent-rest": "#7287fd",
     "--cpd-color-text-success-primary": "#7287fd",
     "--cpd-color-icon-accent-tertiary": "#7287fd",
     "--cpd-color-border-success-subtle": "#7287fd",
-    "--cpd-color-bg-action-primary-rest": "#7287fd",
+    "--cpd-color-bg-action-primary-rest": "#e6e9ef",
     "--cpd-color-icon-accent-primary": "#7287fd",
     "--cpd-color-text-action-accent": "#7287fd",
     "--cpd-color-bg-critical-primary": "#d20f39",
@@ -32,6 +32,10 @@
     "--cpd-color-text-decorative-6": "#04a5e5"
   },
   "colors": {
+    "eventbubble-self-bg": "#e6e9ef",
+    "eventbubble-bg-hover": "#bcc0cc",
+    "cpd-color-gray-200": "#bcc0cc",
+    "cpd-color-alpha-gray-1400": "#bcc0cc",
     "accent-color": "#7287fd",
     "primary-color": "#7287fd",
     "warning-color": "#d20f39",

@@ -2,14 +2,14 @@
   "name": "Catppuccin Mocha",
   "is_dark": true,
   "compound": {
-    "--cpd-color-icon-success-primary": "#cdd6f4",
+    "--cpd-color-icon-success-primary": "#45475a",
     "--cpd-color-icon-critical-primary": "#f38ba8",
-    "--cpd-color-text-on-solid-primary": "#11111b",
+    "--cpd-color-text-on-solid-primary": "#b4befe",
     "--cpd-color-bg-accent-rest": "#b4befe",
     "--cpd-color-text-success-primary": "#b4befe",
     "--cpd-color-icon-accent-tertiary": "#b4befe",
     "--cpd-color-border-success-subtle": "#b4befe",
-    "--cpd-color-bg-action-primary-rest": "#b4befe",
+    "--cpd-color-bg-action-primary-rest": "#181825",
     "--cpd-color-text-action-accent": "#b4befe",
     "--cpd-color-icon-accent-primary": "#b4befe",
     "--cpd-color-bg-critical-primary": "#f38ba8",
@@ -32,6 +32,10 @@
     "--cpd-color-text-decorative-6": "#89dceb"
   },
   "colors": {
+    "eventbubble-self-bg": "#181825",
+    "eventbubble-bg-hover": "#45475a",
+    "cpd-color-gray-200": "#45475a",
+    "cpd-color-alpha-gray-1400": "#45475a",
     "accent-color": "#b4befe",
     "primary-color": "#b4befe",
     "warning-color": "#f38ba8",
