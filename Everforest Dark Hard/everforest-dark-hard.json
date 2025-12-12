@@ -2,7 +2,9 @@
 	"name": "Everforest dark hard",
 	"is_dark": true,
 	"compound": {
-		"--cpd-color-text-on-solid-primary": "#ff00ff",
+		"--cpd-color-icon-success-primary": "#d3c6aa",
+		"--cpd-color-icon-critical-primary": "#e67e80",
+		"--cpd-color-text-on-solid-primary": "#323d43",
 		"--cpd-color-bg-accent-rest": "#a7c080",
 		"--cpd-color-text-success-primary": "#a7c080",
 		"--cpd-color-icon-accent-tertiary": "#a7c080",
