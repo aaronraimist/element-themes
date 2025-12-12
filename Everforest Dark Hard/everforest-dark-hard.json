@@ -1,6 +1,28 @@
 {
 	"name": "Everforest dark hard",
 	"is_dark": true,
+	"compound": {
+		"--cpd-color-text-on-solid-primary": "#ff00ff",
+		"--cpd-color-bg-accent-rest": "#a7c080",
+		"--cpd-color-text-success-primary": "#a7c080",
+		"--cpd-color-icon-accent-tertiary": "#a7c080",
+		"--cpd-color-border-success-subtle": "#a7c080",
+		"--cpd-color-bg-action-primary-rest": "#a7c080",
+		"--cpd-color-text-action-accent": "#a7c080",
+		"--cpd-color-icon-accent-primary": "#a7c080",
+		"--cpd-color-bg-critical-primary": "#e67e80",
+		"--cpd-color-text-critical-primary": "#e67e80",
+		"--cpd-color-border-critical-primary": "#e67e80",
+		"--cpd-color-theme-bg": "#323d43",
+		"--cpd-color-bg-action-secondary-rest": "#2f383e",
+		"--cpd-color-bg-subtle-secondary": "#4b565c",
+		"--cpd-color-bg-subtle-primary": "#2f383e",
+		"--cpd-color-bg-canvas-default": "#2f383e",
+		"--cpd-color-icon-primary": "#d3c6aa",
+		"--cpd-color-text-primary": "#d3c6aa",
+		"--cpd-color-text-secondary": "#a7c080",
+		"--cpd-color-icon-secondary": "#a7c080"
+	},
 	"colors": {
 		"accent-color": "#a7c080",
 		"primary-color": "#a7c080",
@@ -18,6 +40,9 @@
 		"timeline-text-secondary-color": "#a7c080",
 		"timeline-highlights-color": "#4b565c",
 		"reaction-row-button-selected-bg-color": "#4b565c"
+	},
+	"fonts": {
+		"monospace": "Inter, Twemoji, \"Inter Fallback: Helvetica Neue\",\"Inter Fallback: Segoe UI\",\"Inter Fallback: Roboto\",\"Inter Fallback: Ubuntu\",\"Inter Fallback: Fira Sans\",\"Inter Fallback: Noto Sans\",\"Inter Fallback: Arial\",\"Helvetica Neue\",\"Segoe UI\",Roboto,Ubuntu,\"Fira Sans\",\"Noto Sans\",Arial,sans-serif",
+		"general": "Inter, Twemoji, \"Inter Fallback: Helvetica Neue\",\"Inter Fallback: Segoe UI\",\"Inter Fallback: Roboto\",\"Inter Fallback: Ubuntu\",\"Inter Fallback: Fira Sans\",\"Inter Fallback: Noto Sans\",\"Inter Fallback: Arial\",\"Helvetica Neue\",\"Segoe UI\",Roboto,Ubuntu,\"Fira Sans\",\"Noto Sans\",Arial,sans-serif"
 	}
 }
-
