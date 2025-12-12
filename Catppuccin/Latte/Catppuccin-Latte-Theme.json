@@ -2,6 +2,9 @@
   "name": "Catppuccin Latte",
   "is_dark": false,
   "compound": {
+    "--cpd-color-icon-success-primary": "#6c6f85",
+    "--cpd-color-icon-critical-primary": "#d20f39",
+    "--cpd-color-text-on-solid-primary": "#dce0e8",
     "--cpd-color-bg-accent-rest": "#7287fd",
     "--cpd-color-text-success-primary": "#7287fd",
     "--cpd-color-icon-accent-tertiary": "#7287fd",

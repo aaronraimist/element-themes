@@ -2,6 +2,9 @@
   "name": "Catppuccin Mocha",
   "is_dark": true,
   "compound": {
+    "--cpd-color-icon-success-primary": "#cdd6f4",
+    "--cpd-color-icon-critical-primary": "#f38ba8",
+    "--cpd-color-text-on-solid-primary": "#11111b",
     "--cpd-color-bg-accent-rest": "#b4befe",
     "--cpd-color-text-success-primary": "#b4befe",
     "--cpd-color-icon-accent-tertiary": "#b4befe",

@@ -2,6 +2,9 @@
   "name": "Catppuccin Frappe",
   "is_dark": true,
   "compound": {
+    "--cpd-color-icon-success-primary": "#c6d0f5",
+    "--cpd-color-icon-critical-primary": "#e78284",
+    "--cpd-color-text-on-solid-primary": "#232634",
     "--cpd-color-bg-accent-rest": "#babbf1",
     "--cpd-color-text-success-primary": "#babbf1",
     "--cpd-color-icon-accent-tertiary": "#babbf1",
