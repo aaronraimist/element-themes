@@ -43,7 +43,8 @@ If you are self hosting your own instance of Element or you are using the Deskto
 }
 ```
 
-Once you do that, you will need to enable "Support adding custom themes" (`feature_custom_themes`) in the Labs section of Settings so that these themes appear in the Appearance section of Settings.
+`"show_labs_settings": true` will enable several experimental features in your "Labs" section. If you miss adding this you cannot enable themes at all.
+Once you did that, you will need to enable "Support adding custom themes" (`feature_custom_themes`) in the Labs section of Settings so that these themes appear in the Appearance section of Settings.
 
 To use a custom `config.json` file with Element Desktop, see https://github.com/vector-im/element-desktop#user-specified-configjson
 
@@ -60,11 +61,11 @@ Alternatively you can use [my Element Web instance](https://riot.raim.ist) which
 
 # Themes
 
-## [ThomCat Black](https://raw.githubusercontent.com/aaronraimist/element-themes/master/ThomCat/ThomCat-Black.json)
+## [ThomCat Black](https://raw.githubusercontent.com/aaronraimist/element-themes/master/ThomCat/dark/ThomCat-Black.json)
 
 Made by `@me:thomcat.rocks`
 
-![ThomCat Black Screenshot](ThomCat/ThomCat-Black.png)
+![ThomCat Black Screenshot](ThomCat/dark/ThomCat-Black.png)
 
 
 ## [Discord Dark Theme](https://raw.githubusercontent.com/aaronraimist/element-themes/master/Discord/Discord-Dark/Discord-Dark-Theme.json)
@@ -144,11 +145,11 @@ Made by [`Marius`](https://github.com/marius)
 ![Solarized Light Theme Screenshot](Solarized/Solarized%20Light/Solarized%20Light.png)
 
 
-## [Geeko Dark Theme](https://raw.githubusercontent.com/aaronraimist/element-themes/master/Geeko%20Dark/Geeko%20Dark.json)
+## [Geeko Dark Theme](https://raw.githubusercontent.com/aaronraimist/element-themes/master/Geeko/dark/Geeko%20Dark.json)
 
 Made by `@swedneck:feneas.org`
 
-![Geeko Dark Theme Screenshot](Geeko%20Dark/Geeko%20Dark.png)
+![Geeko Dark Theme Screenshot](Geeko/dark/Geeko%20Dark.png)
 
 ## [Dracula Dark Theme](https://raw.githubusercontent.com/aaronraimist/element-themes/master/Dracula/Non-flat/Dracula.json)
 
@@ -162,11 +163,11 @@ Made by `@jo:catgirl.party`
 
 ![Dracula Flat Dark Theme Screenshot](Dracula/Flat/screenshot%2020-06-16%2003-05-42.png)
 
-## [Everforest Dark Hard Theme](https://raw.githubusercontent.com/aaronraimist/element-themes/master/Everforest%20Dark%20Hard/everforest-dark-hard.json)
+## [Everforest Dark Hard Theme](https://raw.githubusercontent.com/aaronraimist/element-themes/master/Everforest%20Dark%20Hard/dark/everforest-dark-hard.json)
 
 Made by `@maksim:wherelinux.xyz`
 
-![Everforest Dark Hard Theme Screenshot](Everforest%20Dark%20Hard/everforest-dark-hard.png)
+![Everforest Dark Hard Theme Screenshot](Everforest%20Dark%20Hard/dark/everforest-dark-hard.png)
 
 ## [Wal Theme](https://github.com/acxz/element-wal)
 
@@ -249,4 +250,4 @@ The results:
 ## build.py
 There is a [build.py](./build.py) python file which takes all the themes and
 outputs it to a file as an array of JSON. Simply execute it in this directory.
-](https://github.com/jordandrako/element-themes/edit/catppuccin/README.md)
+
