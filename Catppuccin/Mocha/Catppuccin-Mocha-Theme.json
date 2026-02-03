@@ -5,11 +5,11 @@
     "accent-color": "#b4befe",
     "primary-color": "#b4befe",
     "warning-color": "#f38ba8",
-    "alert": "#e5c890",
+    "alert": "#f9e2af",
     "sidebar-color": "#11111b",
     "roomlist-background-color": "#181825",
     "roomlist-text-color": "#cdd6f4",
-    "roomlist-text-secondary-color": "#313234",
+    "roomlist-text-secondary-color": "#1e1e2e",
     "roomlist-highlights-color": "#45475a",
     "roomlist-separator-color": "#7f849c",
     "timeline-background-color": "#1e1e2e",
@@ -18,7 +18,7 @@
     "tertiary-content": "#cdd6f4",
     "timeline-text-secondary-color": "#a6adc8",
     "timeline-highlights-color": "#181825",
-    "reaction-row-button-selected-bg-color": "#585b70",
+    "reaction-row-button-selected-bg-color": "#45475a",
     "menu-selected-color": "#45475a",
     "focus-bg-color": "#585b70",
     "room-highlight-color": "#89dceb",
@@ -34,10 +34,27 @@
       "#74c7ec",
       "#b4befe"
     ],
-    "avatar-background-colors": [
-      "#89b4fa",
-      "#cba6f7",
-      "#a6e3a1"
-    ]
+    "avatar-background-colors": ["#89b4fa", "#cba6f7", "#a6e3a1"]
+  },
+  "compound": {
+    "--cpd-color-theme-bg": "#11111b",
+    "--cpd-color-bg-canvas-default": "#181825",
+    "--cpd-color-bg-subtle-secondary": "#11111b",
+    "--cpd-color-bg-subtle-primary": "#1e1e2e",
+    "--cpd-color-bg-action-primary-rest": "#b4befe",
+    "--cpd-color-bg-critical-primary": "#f38ba8",
+    "--cpd-color-bg-accent-rest": "#a6e3a1",
+    "--cpd-color-text-primary": "#cdd6f4",
+    "--cpd-color-text-secondary": "#a6adc8",
+    "--cpd-color-text-action-accent": "#b4befe",
+    "--cpd-color-text-critical-primary": "#f38ba8",
+    "--cpd-color-text-success-primary": "#a6e3a1",
+    "--cpd-color-icon-primary": "#cdd6f4",
+    "--cpd-color-icon-secondary": "#a6adc8",
+    "--cpd-color-icon-tertiary": "#7f849c",
+    "--cpd-color-icon-accent-tertiary": "#a6e3a1",
+    "--cpd-color-border-interactive-primary": "#181825",
+    "--cpd-color-border-critical-primary": "#f38ba8",
+    "--cpd-color-border-success-subtle": "#a6e3a1"
   }
 }

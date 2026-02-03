@@ -34,10 +34,27 @@
       "#209fb5",
       "#7287fd"
     ],
-    "avatar-background-colors": [
-      "#1e66f5",
-      "#8839ef",
-      "#40a02b"
-    ]
+    "avatar-background-colors": ["#1e66f5", "#8839ef", "#40a02b"]
+  },
+  "compound": {
+    "--cpd-color-theme-bg": "#dce0e8",
+    "--cpd-color-bg-canvas-default": "#e6e9ef",
+    "--cpd-color-bg-subtle-secondary": "#dce0e8",
+    "--cpd-color-bg-subtle-primary": "#eff1f5",
+    "--cpd-color-bg-action-primary-rest": "#7287fd",
+    "--cpd-color-bg-critical-primary": "#d20f39",
+    "--cpd-color-bg-accent-rest": "#40a02b",
+    "--cpd-color-text-primary": "#4c4f69",
+    "--cpd-color-text-secondary": "#6c6f85",
+    "--cpd-color-text-action-accent": "#7287fd",
+    "--cpd-color-text-critical-primary": "#d20f39",
+    "--cpd-color-text-success-primary": "#40a02b",
+    "--cpd-color-icon-primary": "#4c4f69",
+    "--cpd-color-icon-secondary": "#6c6f85",
+    "--cpd-color-icon-tertiary": "#8c8fa1",
+    "--cpd-color-icon-accent-tertiary": "#40a02b",
+    "--cpd-color-border-interactive-primary": "#e6e9ef",
+    "--cpd-color-border-critical-primary": "#d20f39",
+    "--cpd-color-border-success-subtle": "#40a02b"
   }
 }
