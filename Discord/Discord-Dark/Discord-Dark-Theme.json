@@ -30,7 +30,7 @@
         "togglesw-off-color": "#72767d"
     },
     "compound": {
-        "--cpd-color-theme-bg": "#0019ff",
+        "--cpd-color-theme-bg": "#2f3136",
         "--cpd-color-bg-canvas-default": "#2f3136",
         "--cpd-color-bg-subtle-secondary": "#2f3136",
         "--cpd-color-bg-subtle-primary": "#4f545c52",
